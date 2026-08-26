@@ -1,0 +1,22 @@
+{
+  "model_key": "dbscan",
+  "family": "DBSCAN",
+  "labels_used_in_fit_or_reduction": false,
+  "selected_parameters": {
+    "eps": 0.63755167479975,
+    "min_samples": 5
+  },
+  "selection_method": "maximum valid silhouette, then lower noise",
+  "fit_seconds": 0.13606440000148723,
+  "metrics": {
+    "silhouette": 0.4265038330567361,
+    "calinski_harabasz": 80.97006128872222,
+    "davies_bouldin": 1.0614454649516383,
+    "ari_post_fit": 0.8089227016769397,
+    "nmi_post_fit": 0.8673354598103372,
+    "purity_descriptive": 0.8881578947368421,
+    "cluster_count_excluding_noise": 13,
+    "noise_count": 143,
+    "noise_rate": 0.23519736842105263
+  }
+}

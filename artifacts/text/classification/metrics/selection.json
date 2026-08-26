@@ -1,0 +1,12 @@
+{
+  "best_model_key": "logistic_regression",
+  "best_family": "Logistic regression",
+  "criterion": "highest group-aware training CV macro-F1; exact ties use predeclared registry order",
+  "test_data_used_for_selection": false,
+  "cv_macro_f1": 0.9905917330255484,
+  "inference_smoke_test": {
+    "status": "passed",
+    "prediction": "german",
+    "input": "raw text"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "model_key": "agglomerative",
+  "family": "Agglomerative clustering",
+  "labels_used_in_fit_or_reduction": false,
+  "selected_parameters": {
+    "n_clusters": 6,
+    "linkage": "ward"
+  },
+  "selection_method": "maximum silhouette",
+  "fit_seconds": 0.1976262999996834,
+  "metrics": {
+    "silhouette": 0.3510841965943414,
+    "calinski_harabasz": 152.61208352684417,
+    "davies_bouldin": 1.4844609803360183,
+    "ari_post_fit": 1.0,
+    "nmi_post_fit": 1.0,
+    "purity_descriptive": 1.0,
+    "cluster_count_excluding_noise": 6,
+    "noise_count": 0,
+    "noise_rate": 0.0
+  }
+}

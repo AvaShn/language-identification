@@ -1,0 +1,89 @@
+{
+  "knn": {
+    "family": "k-nearest neighbours",
+    "rationale": "Instance-based cosine-distance model using the exact candidate grid from the reference project.",
+    "parameter_grid": {
+      "classifier__n_neighbors": [
+        1,
+        3,
+        5,
+        10,
+        20,
+        30,
+        50,
+        75,
+        100,
+        150,
+        200,
+        250
+      ]
+    },
+    "representation": "cleaner + character/word TF-IDF FeatureUnion + Chi-square top-50 fitted inside each CV fold",
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "decision_tree": {
+    "family": "Decision tree",
+    "rationale": "Nonlinear decision-tree baseline with depth selected by group-aware validation Macro F1.",
+    "parameter_grid": {
+      "classifier__max_depth": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        12,
+        15,
+        20
+      ]
+    },
+    "representation": "cleaner + character/word TF-IDF FeatureUnion + Chi-square top-50 fitted inside each CV fold",
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "logistic_regression": {
+    "family": "Logistic regression",
+    "rationale": "Balanced regularized linear classifier for the selected character and word features.",
+    "parameter_grid": {
+      "classifier__C": [
+        0.0001,
+        0.001,
+        0.01,
+        0.1,
+        0.5,
+        1,
+        2,
+        5,
+        10,
+        50,
+        100
+      ]
+    },
+    "representation": "cleaner + character/word TF-IDF FeatureUnion + Chi-square top-50 fitted inside each CV fold",
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "multinomial_nb": {
+    "family": "Multinomial Naive Bayes",
+    "rationale": "Generative non-negative feature baseline using the reference alpha grid.",
+    "parameter_grid": {
+      "classifier__alpha": [
+        0.001,
+        0.01,
+        0.1,
+        0.5,
+        1,
+        2,
+        5,
+        10,
+        20,
+        50,
+        100,
+        200
+      ]
+    },
+    "representation": "cleaner + character/word TF-IDF FeatureUnion + Chi-square top-50 fitted inside each CV fold",
+    "selection_metric": "group-aware CV macro-F1"
+  }
+}

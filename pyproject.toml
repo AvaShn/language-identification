@@ -1,0 +1,35 @@
+[project]
+name = "language-identification"
+version = "1.0.0"
+description = "Reproducible CPU pipelines for independent speech-feature and multilingual-text language identification datasets"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+authors = [{ name = "Language Identification Project" }]
+dependencies = [
+  "joblib>=1.4,<2.0",
+  "matplotlib==3.10.3",
+  "nbclient>=0.10,<1.0",
+  "nbformat>=5.10,<6.0",
+  "numpy==2.2.6",
+  "pandas==2.2.3",
+  "psutil>=6.0,<8.0",
+  "pyyaml>=6.0,<7.0",
+  "scikit-learn==1.6.1",
+  "scipy==1.15.3",
+  "ipykernel>=6.29,<8.0",
+]
+
+[tool.poetry]
+packages = [{ include = "language_identification", from = "src" }]
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=8.3,<10.0"
+
+[build-system]
+requires = ["poetry-core>=2.0,<3.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]
+pythonpath = ["src"]

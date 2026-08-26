@@ -1,0 +1,13 @@
+speech:
+  feature_source: Speech_Identification/clean data and data extraction
+  features_file: features.csv
+  metadata_file: metadata.csv
+  target_column: lang
+  identifier_column: filepath
+  metadata_columns:
+    - gender
+  group_regex: '^(\d{9})_'
+  pca_components: 30
+  cluster_k_min: 2
+  cluster_k_max: 8
+

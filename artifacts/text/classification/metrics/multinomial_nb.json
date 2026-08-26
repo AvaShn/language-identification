@@ -1,0 +1,43 @@
+{
+  "model_key": "multinomial_nb",
+  "family": "Multinomial Naive Bayes",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.8813482726567597,
+  "cv_macro_f1_std": 0.12125764843597778,
+  "best_parameters": {
+    "classifier__alpha": 0.001
+  },
+  "fit_search_seconds": 16.182192700001906,
+  "heldout_predict_seconds": 0.09003389999998035,
+  "heldout_rows": 211,
+  "training_metrics": {
+    "accuracy": 0.9798488664987406,
+    "macro_precision": 0.9823757358968627,
+    "macro_recall": 0.9805322128851541,
+    "macro_f1": 0.9811189414476571,
+    "weighted_precision": 0.9802351753960652,
+    "weighted_recall": 0.9798488664987406,
+    "weighted_f1": 0.9796799072997463
+  },
+  "heldout_metrics": {
+    "accuracy": 0.981042654028436,
+    "macro_precision": 0.9776785714285715,
+    "macro_recall": 0.9791666666666666,
+    "macro_f1": 0.9773397052966946,
+    "weighted_precision": 0.9823121191604604,
+    "weighted_recall": 0.981042654028436,
+    "weighted_f1": 0.9807391552996201
+  },
+  "common_confusions": [
+    {
+      "true": "portuguese",
+      "predicted": "italian",
+      "count": 2
+    },
+    {
+      "true": "portuguese",
+      "predicted": "spanish",
+      "count": 2
+    }
+  ]
+}

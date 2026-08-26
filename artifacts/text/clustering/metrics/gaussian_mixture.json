@@ -1,0 +1,22 @@
+{
+  "model_key": "gaussian_mixture",
+  "family": "Gaussian Mixture",
+  "labels_used_in_fit_or_reduction": false,
+  "selected_parameters": {
+    "n_components": 8,
+    "covariance_type": "diag"
+  },
+  "selection_method": "minimum BIC",
+  "fit_seconds": 0.23541649999970105,
+  "metrics": {
+    "silhouette": 0.2598984386998283,
+    "calinski_harabasz": 116.5118040539003,
+    "davies_bouldin": 1.7507388592789654,
+    "ari_post_fit": 0.894201600774143,
+    "nmi_post_fit": 0.9404378741654623,
+    "purity_descriptive": 1.0,
+    "cluster_count_excluding_noise": 8,
+    "noise_count": 0,
+    "noise_rate": 0.0
+  }
+}

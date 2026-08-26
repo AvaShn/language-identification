@@ -1,0 +1,43 @@
+{
+  "model_key": "decision_tree",
+  "family": "Decision tree",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9537078925432294,
+  "cv_macro_f1_std": 0.029842312412917585,
+  "best_parameters": {
+    "classifier__max_depth": 10
+  },
+  "fit_search_seconds": 15.780972500000644,
+  "heldout_predict_seconds": 0.09071309999853838,
+  "heldout_rows": 211,
+  "training_metrics": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "weighted_precision": 1.0,
+    "weighted_recall": 1.0,
+    "weighted_f1": 1.0
+  },
+  "heldout_metrics": {
+    "accuracy": 0.985781990521327,
+    "macro_precision": 0.9841518634622083,
+    "macro_recall": 0.9836805555555556,
+    "macro_f1": 0.9838331160365059,
+    "weighted_precision": 0.9859057976397411,
+    "weighted_recall": 0.985781990521327,
+    "weighted_f1": 0.9857708682192576
+  },
+  "common_confusions": [
+    {
+      "true": "spanish",
+      "predicted": "portuguese",
+      "count": 2
+    },
+    {
+      "true": "portuguese",
+      "predicted": "spanish",
+      "count": 1
+    }
+  ]
+}

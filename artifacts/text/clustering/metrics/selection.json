@@ -1,0 +1,7 @@
+{
+  "best_model_key": "dbscan",
+  "best_family": "DBSCAN",
+  "criterion": "highest label-free silhouette among valid results",
+  "labels_used_for_selection": false,
+  "interpretation_note": "ARI, NMI, and purity were computed only after fitting and were not selection inputs."
+}

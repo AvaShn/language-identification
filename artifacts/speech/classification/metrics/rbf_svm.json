@@ -1,0 +1,25 @@
+{
+  "model_key": "rbf_svm",
+  "family": "Support vector machine",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9245626468027236,
+  "cv_macro_f1_std": 0.0852673669598789,
+  "best_parameters": {
+    "classifier__C": 1.0,
+    "classifier__class_weight": null,
+    "classifier__gamma": "scale"
+  },
+  "fit_search_seconds": 0.6553434000015841,
+  "heldout_predict_seconds": 0.008036899998842273,
+  "heldout_rows": 148,
+  "heldout_metrics": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "weighted_precision": 1.0,
+    "weighted_recall": 1.0,
+    "weighted_f1": 1.0
+  },
+  "common_confusions": []
+}

@@ -1,0 +1,3071 @@
+{
+  "created_at_utc": "2026-08-19T12:22:28.721933+00:00",
+  "file_count": 613,
+  "files": [
+    {
+      "path": "data/raw/text/de/Female/10.txt",
+      "bytes": 283,
+      "sha256": "a7faf91c41eb7c5d9ed1a05cc471e7f1a10f7c7d54e271ed77495bbda1d59927"
+    },
+    {
+      "path": "data/raw/text/de/Female/7.txt",
+      "bytes": 272,
+      "sha256": "e89f931fd1b3f52cc036b2e1450a9d55e250ddbb3c5015a485d6fd3d78999870"
+    },
+    {
+      "path": "data/raw/text/de/Female/8.txt",
+      "bytes": 316,
+      "sha256": "0076c9748fd41b5d3714c1d2062da9ae6b86b1facd974cb6e0fca5a2de02de09"
+    },
+    {
+      "path": "data/raw/text/de/Female/810101512_female_German_voice12.mp3.txt",
+      "bytes": 319,
+      "sha256": "3b377942606939b7ccc7609ed4c4e7ad43fde8c8b14e08249fb4403b43b17a7c"
+    },
+    {
+      "path": "data/raw/text/de/Female/810101512_female_German_voice14.mp3.txt",
+      "bytes": 321,
+      "sha256": "e9bd3034581a21d5647c50f94f25e37b0e5695f35352722ee06e6e3c79b52ea2"
+    },
+    {
+      "path": "data/raw/text/de/Female/810101512_female_German_voice20.mp3.txt",
+      "bytes": 317,
+      "sha256": "edde214a86cbf5361fbf73f27dfea223211e94eddc54e12551b740316491560b"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102483_female_german_voice01.txt",
+      "bytes": 316,
+      "sha256": "75a049244fd26ab3227e5a9172e71e32f5359a0d1578ca54ab32ced321f2daed"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102483_female_german_voice06.txt",
+      "bytes": 315,
+      "sha256": "59aee46b7a9b1b7121abc2446ff2d7679f941cb4bc5561368804c7b063b34416"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102483_female_german_voice13.txt",
+      "bytes": 322,
+      "sha256": "2e38bd51f6b4cd089d4a9077733527f02c22b5b3e97aa0b4a7cd65ea514410c6"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102483_female_german_voice14.txt",
+      "bytes": 321,
+      "sha256": "a16d1c35ccf042a5416b534daacd005837dd495f51b70d70707f71320c5e437b"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102483_female_german_voice16.txt",
+      "bytes": 317,
+      "sha256": "e097aab8c159bd848614b9c03be1045419f45c2ad5d8a17db82db87e378cf5e5"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice02.txt",
+      "bytes": 319,
+      "sha256": "f9ab0bda04be3c9f465129e4caa4efecf9cc017da2c9e28e34656b817371f94c"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice03.txt",
+      "bytes": 314,
+      "sha256": "0be8361a6ccd56194e808c883df40540f37e5f4e5c268d90deb6c2bba3201469"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice05.txt",
+      "bytes": 309,
+      "sha256": "e7261d66bb9f171c53c2a1254852e2050afea5095f24679c9bc848fd7aa49d0a"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice06.txt",
+      "bytes": 323,
+      "sha256": "5cbf77a23e11e95f7f9dd3a4fb95e2a44c539b4eb13ae10552be03f4fcb02e95"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice07.txt",
+      "bytes": 319,
+      "sha256": "c8f68d4e5ef8bb0ed8ae854ad697943742de2dbfa9089229a4c361446671a8cd"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice10.txt",
+      "bytes": 322,
+      "sha256": "d3f25aec2e6ffc7da9928e79f69948e321f903d04e428739250109ea3564e46f"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice14.txt",
+      "bytes": 319,
+      "sha256": "a00866bde580f56766b2630695afc21d16169677ecf3cf21b73ac29a596c8ec8"
+    },
+    {
+      "path": "data/raw/text/de/Female/810102543_female_german_voice17.txt",
+      "bytes": 318,
+      "sha256": "92d94f8c151452e225ee420bc20f60972f9cf2960e844c74ad38f06fe2befc6b"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103084_female_german_voice12.txt",
+      "bytes": 320,
+      "sha256": "9ab1cdf00d513eb559b9cfa596e60196c2e6f808aa388241168e83a952b0914c"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103084_female_german_voice13.txt",
+      "bytes": 323,
+      "sha256": "d8d3719552e621f90718566b799d5cd3d1254063fd8f38ea09cac6c073d2033b"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103084_female_german_voice15.txt",
+      "bytes": 316,
+      "sha256": "291a1ae708da6a1db2b73ad25accc4b0e566593c72da9841239ce4feaf544c7c"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103084_female_german_voice17.txt",
+      "bytes": 318,
+      "sha256": "a1ea13d05bea7db86c81b7d075e419bd9797bf03cef0aba7ae20820898720861"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103160_female_german_voice04.txt",
+      "bytes": 319,
+      "sha256": "f5eeccbe3a2d2aa2aa243c0bd29a7add72385401bab93d930f57db031c4e9d8e"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103160_female_german_voice05.txt",
+      "bytes": 321,
+      "sha256": "f5ff1811aa6fbcf0ebe3a669da73a25dc41c233b5e4f3a204135e9ddd98ba3e9"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103160_female_german_voice06.txt",
+      "bytes": 322,
+      "sha256": "8809aa1c2cb8d710a1eb8c7806ba5e266e39326afd18c23f65674c23c153f545"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103160_female_german_voice07.txt",
+      "bytes": 317,
+      "sha256": "46d1d72138eeaac5061b051ee0a4c4ca112b39b4e7e7b139d6c8f8a90345642b"
+    },
+    {
+      "path": "data/raw/text/de/Female/810103160_female_german_voice20.txt",
+      "bytes": 324,
+      "sha256": "b5ee7bd8bd3c85aa4468c0ee9f6e5dc401082ba55a8e13d9d427f7795ecb5ab8"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104049_female_german_voice14.txt",
+      "bytes": 324,
+      "sha256": "451088020599d6e0b036ebe3cde7fe720e1d0b016e90a5258cf066b43bad1a4d"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104049_female_german_voice18.txt",
+      "bytes": 322,
+      "sha256": "cbb7a299826ec69831acba67366686116fd67feed914b05cc0d224709f5b3802"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice01.txt",
+      "bytes": 315,
+      "sha256": "2e41dbea483df7fdfceec517d25592310cb6b5e1afd700b234cc0699438df4f2"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice04.txt",
+      "bytes": 317,
+      "sha256": "46228261a688dacc0f2d88a6417c1bb0026f6dd85bb2d89d430db1ff37487f12"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice06.txt",
+      "bytes": 321,
+      "sha256": "a9fe3cab4e1e8eea88d857384f43b4403d93cd235fc673b09371ae7f33067f3a"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice09.txt",
+      "bytes": 320,
+      "sha256": "b49e9a9219bd55d0d16f6eb1764faf8df4aa37e61d5bb7ec12948ef41ca8cd64"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice12.txt",
+      "bytes": 322,
+      "sha256": "00699ef8b140658673d039a8dd8d4cd485c02aef2ee7f3010c0fbb2610e946ee"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104145_female_german_voice18.txt",
+      "bytes": 316,
+      "sha256": "253ff568ae50ae6e6ad106c0423b736d0259fde7d3e545352a1cef8d1f7f5818"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104170_female_german_voice12.txt",
+      "bytes": 310,
+      "sha256": "7ce7914e26374c4a7bdcf0c448056fa5a6faca97f0fb892a8e07975f7874ed55"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104170_female_german_voice15.txt",
+      "bytes": 323,
+      "sha256": "1470152399951ef0811e73e7da1c41bd3c8786a908e2a7f0b1a58eae159d4709"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104170_female_german_voice20.txt",
+      "bytes": 317,
+      "sha256": "507da4b416185d45d26474c21a84fba2c490a89cac5cf37e170780fb26ff70c7"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104170_female_german_voice3.txt",
+      "bytes": 321,
+      "sha256": "dfdb0808acb1b18d2b841762c6071f74dfb31a0b1ebeb056043664541e3db4d8"
+    },
+    {
+      "path": "data/raw/text/de/Female/810104170_female_german_voice7.txt",
+      "bytes": 318,
+      "sha256": "86b4e8968bd85f49469a9814d00638bf60df66fdfe2c66d16d04f204a0ddde1b"
+    },
+    {
+      "path": "data/raw/text/de/Female/9.txt",
+      "bytes": 311,
+      "sha256": "729b9474fd14af1d74d5a0a4339037a24465e71b389875fdd5f8f284c3f9c542"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice04.txt",
+      "bytes": 316,
+      "sha256": "8516e9bb924c79b18b5f65bad7bdb9bf9d09cd029b1bd763878565d16048ec32"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice07.txt",
+      "bytes": 318,
+      "sha256": "f4ccecb4be23f8698de93ddf961b7b12abd9525497c1ee201db0e2f9a4ed2b51"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice09.txt",
+      "bytes": 320,
+      "sha256": "830f55591a8a1d6036acaeb43c8043b087245f28384d58828b1a3cb69657a3ae"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice12.txt",
+      "bytes": 317,
+      "sha256": "e83a6d4fc393b2f5aaa013701b061c1ac9e2251c2dc5910027c0442252bbf9f2"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice14.txt",
+      "bytes": 308,
+      "sha256": "f56dd57c515299829c62ad5019a2b95de6169fe8b58c7676f2a6d33372a90c1b"
+    },
+    {
+      "path": "data/raw/text/de/Female/998104021_female_german_voice15.txt",
+      "bytes": 320,
+      "sha256": "bf75b8c2e3b464e4cce51bca064fde851eb5a26aa596aa1caf40dc52395ef873"
+    },
+    {
+      "path": "data/raw/text/de/Female/text1.txt",
+      "bytes": 316,
+      "sha256": "2e17a167cd8017fd7c3aee1809805ab96c2e03f1f3e8fbfc2201fb2debee58ee"
+    },
+    {
+      "path": "data/raw/text/de/male/2.txt",
+      "bytes": 322,
+      "sha256": "c5c1ec79c87e483157b85ff75e2572d24bbec376dbe09f937ceb22e9839e4225"
+    },
+    {
+      "path": "data/raw/text/de/male/3.txt",
+      "bytes": 320,
+      "sha256": "238417b84e2383753b2347fdf0a6540e727d7e6a7824603a867c576a277618ab"
+    },
+    {
+      "path": "data/raw/text/de/male/4.txt",
+      "bytes": 336,
+      "sha256": "9101524c6fcfae3f27b21309c1c55b017b7210cf406179430c246e6801d33d47"
+    },
+    {
+      "path": "data/raw/text/de/male/5.txt",
+      "bytes": 331,
+      "sha256": "dbff21aba7e4da8e3c4c136e599ce6f19d0123f09fab6ea292e45d6062bd6e15"
+    },
+    {
+      "path": "data/raw/text/de/male/6.txt",
+      "bytes": 321,
+      "sha256": "b1799b2655cced421ad6a6ff84bddb6054c029a473bbe5d277e4111b4702fb34"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice02.txt",
+      "bytes": 321,
+      "sha256": "549235f2fff58c12c641c70f1a1d8b74d78e2d40469efa3f8535367f26194834"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice07.txt",
+      "bytes": 320,
+      "sha256": "8fbd5219a307b28981e799034c0a8902a5a022b9edcbef573425b7c237b88017"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice08.txt",
+      "bytes": 318,
+      "sha256": "87a348cdabaabb62ebf518fac81d0e78836b4b6bb93f50a6b602a95333f96b4f"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice09.txt",
+      "bytes": 318,
+      "sha256": "5d2f3971b52008deb101b0008fdeaf0006416a77834ad7d9528618f741a5cecd"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice12.txt",
+      "bytes": 319,
+      "sha256": "806968b918b9abedb3ca6b2356f49281aa751b13706e120723182be26b3c8f7a"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice18.txt",
+      "bytes": 319,
+      "sha256": "e070ae2285d93781c2dffd35d2a0d81a285d1509152604fccd5387e4da606627"
+    },
+    {
+      "path": "data/raw/text/de/male/810100147_male_german_voice19.txt",
+      "bytes": 321,
+      "sha256": "e4c12b805bf5716620067160c1ef78e725277f524f2366a65735004d2bf65a22"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice01.txt",
+      "bytes": 326,
+      "sha256": "745a226b5231ec5b327414801ecbbaa08dc07e4c4c2dce31bf1425f5aeec90f4"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice03.txt",
+      "bytes": 315,
+      "sha256": "f27b0e6685571da705b8fc43f9a8ca4d677242acf501fd6709a372327e1c5759"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice04.txt",
+      "bytes": 322,
+      "sha256": "5b410e25619f0d212b997301c154ac07595536404cc49de3bcda4a20eafda4c2"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice05.txt",
+      "bytes": 316,
+      "sha256": "3eac0abd2f73975b84fce0a692d79be7e04252fe3331f6172c06d1cec933fe32"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice06.txt",
+      "bytes": 317,
+      "sha256": "4695375a870f73e3869b2f576ff60c20de79be1f9d8983de65793943d6012c40"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice07.txt",
+      "bytes": 319,
+      "sha256": "8b59c632c67ab2874b1f08ef00dc115e9e952c1589291e1785b2a7d7edbfafb8"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice09.txt",
+      "bytes": 317,
+      "sha256": "c1d8943150db91954bf864bb6e5365d4be30d89b6e3c06bb595aa99d8d500e98"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice12.txt",
+      "bytes": 314,
+      "sha256": "8961e1d313d4fc5ea93f8700bfbac0ba8eb9d4298f59236ef5b1b256c42a3b8f"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice16.txt",
+      "bytes": 318,
+      "sha256": "980bdf40ddcfd90df33d79760b50c05ffa2e28512bf875ec7b6f9f2f679e3240"
+    },
+    {
+      "path": "data/raw/text/de/male/810100162_male_german_voice20.txt",
+      "bytes": 318,
+      "sha256": "353e6c6619fdcbc53274d686406017daf97a3074c3ad397320d98c5fec9f3ba6"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice01.txt",
+      "bytes": 318,
+      "sha256": "5d4972cfb324d2101afa297c4c497137ad12dbbd5b85a170447a93767b36ca0a"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice02.txt",
+      "bytes": 317,
+      "sha256": "79bfaab345273cdeda953567cf8862950f3ba80f037432935ba52b6c9c17059d"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice04.txt",
+      "bytes": 319,
+      "sha256": "54d40cb24d9a33bbb777119e5dbfca283a6e88acb59abb6c4b39c355a0e06693"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice10.txt",
+      "bytes": 315,
+      "sha256": "fc9ce7523aa274098f8cf6fbbe326eb3cfe52dc4fcf247c549d74c3a9e2af7d8"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice11.txt",
+      "bytes": 315,
+      "sha256": "34ed946c029ded15e4d899f2c28782265488468d71080a3e85eae6ed2b49b12d"
+    },
+    {
+      "path": "data/raw/text/de/male/810101399_male_german_voice14.txt",
+      "bytes": 322,
+      "sha256": "c3616b9d1174e2692253e6862eff095be87e6799970d8cc0d17db0af5d3f7cd2"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice01.txt",
+      "bytes": 315,
+      "sha256": "cc8aed107706a254777e45cceefbe022a00105ef1bbc17533e6b0cde4af38f77"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice02.txt",
+      "bytes": 314,
+      "sha256": "7633b921fbd3a4b7b8daa8296b91d1c127837055d6ab2264714821d6bd35a1e7"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice03.txt",
+      "bytes": 316,
+      "sha256": "3ea84f6fb1a94dfc3c78cf7474f6dca65823dc808b8089c865f8f92c9c92b969"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice04.txt",
+      "bytes": 320,
+      "sha256": "3ca8a147d9df86a19b5401c3c9a06a82aa61a11827a75ff9283bc4c11e05a962"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice05.txt",
+      "bytes": 319,
+      "sha256": "1d0cbcc3f48d49724411b0bcb6b181a706db1368c80eb2a3471b285a72f875e4"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice08.txt",
+      "bytes": 316,
+      "sha256": "c8e591ea2ada7cd8a8e0ecc51f3ff3f5f8d4788691aae9e1347dcde8a11b3ded"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice13.txt",
+      "bytes": 319,
+      "sha256": "4ffe21503c48b2c2dada4968d2a84c1b87f829cc99c2a3780b9b06c35005351c"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice14.txt",
+      "bytes": 318,
+      "sha256": "62f86c7e3890865ca5b50c098168a16d266094a8a24185f372929e9a4786147a"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice16.txt",
+      "bytes": 313,
+      "sha256": "7cf7d4871a84f77bdc07885012db36ebe86a28a60cfceadd71202d23c04b8957"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice17.txt",
+      "bytes": 318,
+      "sha256": "4f2b8034e03630aa7107fc5b5d441e18c7c364b6123d09cc049a6d1adfff1554"
+    },
+    {
+      "path": "data/raw/text/de/male/810101453_male_german_voice20.txt",
+      "bytes": 321,
+      "sha256": "930805be8204cf07741aaab5a3f933b9937a9e27268673053ecec923be7550ac"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice01.txt",
+      "bytes": 320,
+      "sha256": "ec20d791638dbec569c481e1611a327a39f5692fb0019e91bb3ff72a5622a1d2"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice12.txt",
+      "bytes": 316,
+      "sha256": "f2fbe12811a2af137757b99883f7da02c2182bca609b66b82817eaedc13f37df"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice13.txt",
+      "bytes": 320,
+      "sha256": "69ce7087d32859f04ba0234dfe6c8fd80f147bc372d3e1598b03c05d73f8f01f"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice14.txt",
+      "bytes": 321,
+      "sha256": "b1bcc3c02812c1c2194b1cbae5307d7dda7340ec10502973edbb33a43e238828"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice16.txt",
+      "bytes": 322,
+      "sha256": "ebd8f33dd394c281c65e7ea89b199fdaef56669b97fcbe813d63fd39b1c4c9a9"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice17.txt",
+      "bytes": 319,
+      "sha256": "bdf0aa5d0ad2c2cf530383618f68328aad3dc7b2dc61363d032d3ca5c1c4d849"
+    },
+    {
+      "path": "data/raw/text/de/male/810101477_male_german_voice18.txt",
+      "bytes": 318,
+      "sha256": "6a36c0a6a8aeea67e3925b153ffb60414495159aabdf2eec61695a76f6a8de4e"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice1.txt",
+      "bytes": 318,
+      "sha256": "48aa875b59e73fc63f4e327bd9238e41224a8bb15e4367ef231a87b463dd2582"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice10.txt",
+      "bytes": 319,
+      "sha256": "24696ff49a8bdaaffc87ca1abe3751905f0941bfb74b26015ed133253302f334"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice12.txt",
+      "bytes": 323,
+      "sha256": "6b29162193f426d32c118ca5c2d54341373514b516b8fa4475308a1073772701"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice13.txt",
+      "bytes": 316,
+      "sha256": "e0fb4c43244504c9a63fa22087d6ed7453c32249ae971b210573f8f30cc11015"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice22.txt",
+      "bytes": 311,
+      "sha256": "b32d4717e32ca7ce2bdf0afa49143474611fc5b20cc33ccde6f790f6e9c287dc"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice23.txt",
+      "bytes": 317,
+      "sha256": "7632e3f5db74891be9ccc32a84f3a9a11d0f83f1f6800d2ae184f65535895862"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice29.txt",
+      "bytes": 319,
+      "sha256": "c86cddd0b9e4c58b2497e4ad84d3974c21ea73af1a219cc0f4f5b9544bba480f"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice4.txt",
+      "bytes": 317,
+      "sha256": "4111855a00a49e3dbfe84557321874c671ea36a44398b5b8b12377781c662075"
+    },
+    {
+      "path": "data/raw/text/de/male/810101607_male_german_voice5.txt",
+      "bytes": 318,
+      "sha256": "789779541e4740c28467633babd8a034f418dd8846118356db8c80d3d359110e"
+    },
+    {
+      "path": "data/raw/text/es/Female/10.txt",
+      "bytes": 312,
+      "sha256": "01d52390699a5838cb251f6c5cc8054363b51ecc863867b086f509dac2e6af92"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice1.txt",
+      "bytes": 325,
+      "sha256": "b534c0d855ac7e30154d94f8b74618e6905c068596733ad9bf9711cf1d686756"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice10.txt",
+      "bytes": 321,
+      "sha256": "38a215286e550418b88fb0495c052c9df841decc9077ee74f23648f10db51b3a"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice2.txt",
+      "bytes": 318,
+      "sha256": "3e05b24294283595ff92f03585accdbbd2d5e37ef567f40ec5e422808d324181"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice3.txt",
+      "bytes": 324,
+      "sha256": "7eee236f163560b2a7ec3de48ec16bac6168dc67e2a6f398b2fb80b3a1dd0d2c"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice4.txt",
+      "bytes": 320,
+      "sha256": "db4093270e4d99557813869273d0a486d6ec429e073c701c109cf5b30fa43d20"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice5.txt",
+      "bytes": 322,
+      "sha256": "5439e304d82d028ed5cd86fa2639eac30956d6d17a3e53e181971e89d97642f0"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice6.txt",
+      "bytes": 317,
+      "sha256": "a679b8632e744a54168ffba515a3946873e68490c0f757d724cfa9cf9eb5a829"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice8.txt",
+      "bytes": 325,
+      "sha256": "f897507d6249305ecd6a2460ca3c831569df1ac37d1edf96a2852f2bb3415b1e"
+    },
+    {
+      "path": "data/raw/text/es/Female/220701071_female_spanish_voice9.txt",
+      "bytes": 317,
+      "sha256": "12156e46e28936d96f94d8cfd9940f56c85a7bf6b5405c12e511a5c86cfb5b75"
+    },
+    {
+      "path": "data/raw/text/es/Female/6.txt",
+      "bytes": 327,
+      "sha256": "d0c56a3e492767101df3770f5d6cebabdb18c4c9244287abe10f463efa71ba52"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice10.txt",
+      "bytes": 323,
+      "sha256": "3e474105757821b68d8f0307f51c2a9d6955cf904e105e4b9275ab7b031174d9"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice2.txt",
+      "bytes": 331,
+      "sha256": "dd97489e7df9189bdd09d848b30b45ff22748bf63e9aff3421d116b0d599c225"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice3.txt",
+      "bytes": 317,
+      "sha256": "b09bdbdbfd31c36e1687af2f56e085017a7548a1b50b730b11df1033fc05170d"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice4.txt",
+      "bytes": 322,
+      "sha256": "a46b7a0feeb34cd6ac28f2ec5a79d618168dcb007dc97197d68d54eb40195f2c"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice5.txt",
+      "bytes": 319,
+      "sha256": "164a075901339d50dd80fe4c8b69eaafe7eb1ddfab2d8201f1e5f6a7e4f88434"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice6.txt",
+      "bytes": 325,
+      "sha256": "2411ce706a8351082dbf5f4107870e5caa463319f61adcac34b1b9196c16e044"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice8.txt",
+      "bytes": 322,
+      "sha256": "7c2458455c9bc7171b7bfcbc3ec9a9c3d72758ec921ef833c1e7c1f330724f92"
+    },
+    {
+      "path": "data/raw/text/es/Female/610301117_female_spanish_voice9.txt",
+      "bytes": 322,
+      "sha256": "ce3f3d57567f3a4d071b44e92d5c40a9244f8bd16676fda7b2c9726b5caf2a38"
+    },
+    {
+      "path": "data/raw/text/es/Female/7.txt",
+      "bytes": 304,
+      "sha256": "68c8e5927a55b40d11ea1daa3cba22fd35c9843d0f16546626a1de700c810676"
+    },
+    {
+      "path": "data/raw/text/es/Female/8.txt",
+      "bytes": 308,
+      "sha256": "b19eb23f92aed5898bd43b70147ab9fce5c328996c624a8ad7c8e31a3ecfeb4a"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice10.txt",
+      "bytes": 323,
+      "sha256": "862c64323705e2751f95453529e9547d0542a62f88b5876d1096c5ab78385dc2"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice2.txt",
+      "bytes": 323,
+      "sha256": "e135c3e8d97a46630503391a6e2ae577d294c61c6ee93a6f3c3ff32d68a19491"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice3.txt",
+      "bytes": 324,
+      "sha256": "651e886774cae9e946a46edff0f507504046f57eeccc9f5ea7c7605576aa0db5"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice4.txt",
+      "bytes": 321,
+      "sha256": "455878ae3f5507e7e0b575a6e2d5f771ee609faabc74f67478457fbd6b03f2ed"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice6.txt",
+      "bytes": 323,
+      "sha256": "bd1dbbdbf7970906130cb06d8a02b161d282f6827845a58151bc359c22d3ba47"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice7.txt",
+      "bytes": 321,
+      "sha256": "3fb1e7337a6ba50711d5c6272a97e72f2f8c6393905299332abba408b4778560"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice8.txt",
+      "bytes": 325,
+      "sha256": "688950b88ba57917595aaba9d0066f4ae83a3e3ba6f6b89b00dd14ef26e4e4cc"
+    },
+    {
+      "path": "data/raw/text/es/Female/810101574_female_spanish_voice9.txt",
+      "bytes": 321,
+      "sha256": "2e89f3bb3fb29e755b0fce736187220aa116874e44b294b20dd894211397a708"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice1.txt",
+      "bytes": 324,
+      "sha256": "1c7ec082e4116582ff0960a8ef029ba29d40ef2e3a38631ade36fa0e565371bd"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice10.txt",
+      "bytes": 326,
+      "sha256": "1fb390619b645f8bc1b8181f8e33aaa8f018f42697cc83295416f1615372ea18"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice2.txt",
+      "bytes": 327,
+      "sha256": "d32850fe76fb2233e758cc8aaf30bb9570497bd87e60666c38da36338607f82b"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice3.txt",
+      "bytes": 323,
+      "sha256": "a1f4ef2afdf6f20af81742610a9ef1e7ce3addb39f68294317debe3bd88bad21"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice5.txt",
+      "bytes": 282,
+      "sha256": "ac297ae4e2e1157c9ea5f115dd4cbdc30802c9469fe29e5f0c86364335ebf8a7"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice6.txt",
+      "bytes": 317,
+      "sha256": "29a1286ad34d1982ec1a1df01c4e6384fdd90a2a38b94140f9daf51e64e8db6d"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice7.txt",
+      "bytes": 320,
+      "sha256": "b47c74b9e2a48a42ceddb5f717fd7c0dcc6410f8054d748adc6f17ebe3671c28"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice8.txt",
+      "bytes": 320,
+      "sha256": "92babd8aa14207b3ad65aaff68eac97f21c5b205ceb64d059fccc890c5126e7d"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102470_female_spanish_voice9.txt",
+      "bytes": 319,
+      "sha256": "2a26b328db9fabf1899d14bd1b59c9fe6c30eab81913b358ffcdb2a6176e8667"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice1.txt",
+      "bytes": 323,
+      "sha256": "841e3e3ea3c2ce750dfdf605f291e731b54b0fb619209a2fde1b251172a688c2"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice2.txt",
+      "bytes": 323,
+      "sha256": "f64a9ee8f468ef8d146729c642a43ed380fba5d14d6455f20ccbb30b8a354171"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice3.txt",
+      "bytes": 328,
+      "sha256": "f497c6ee55f2c0627b7641a8b00cc8278220c8f6d30712d37762468f4e39b3ac"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice4.txt",
+      "bytes": 323,
+      "sha256": "283f30a977ae0d1b903b275428be00fe0226bb92efda074fe19f063a4fa72de0"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice5.txt",
+      "bytes": 322,
+      "sha256": "5960858c365e04033f9e649c9193e0efdea7aa89570283a439b39cdc2022c847"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice6.txt",
+      "bytes": 319,
+      "sha256": "fa532418ae7a3d29e28c48f0627afc7a5b2d7670779b66a74edb6751b5f5af7e"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice8.txt",
+      "bytes": 319,
+      "sha256": "340acbed84d4e834e05cabcc598b03b3fc772635c684610e7ee5a65ef82b4b21"
+    },
+    {
+      "path": "data/raw/text/es/Female/810102515_female_spanish_voice9.txt",
+      "bytes": 322,
+      "sha256": "49936742ba8c4e68c7528db5293546edc0fa718711b5f5e4b3758ca73d6f6c5b"
+    },
+    {
+      "path": "data/raw/text/es/Female/9.txt",
+      "bytes": 314,
+      "sha256": "76aa77ba39a961f0b67250085f5b7e6ae89842de2fe1c06cc980f9e1020a348b"
+    },
+    {
+      "path": "data/raw/text/es/Male/1.txt",
+      "bytes": 321,
+      "sha256": "d97b9cd785bdab7be1a6ab6e7f04e2c46ea8150a43782fa77a364ded4f89d003"
+    },
+    {
+      "path": "data/raw/text/es/Male/2.txt",
+      "bytes": 331,
+      "sha256": "c8aaea451cbee051f06cc6d01a9225622a8da52b00c3880afecd600d16faf19e"
+    },
+    {
+      "path": "data/raw/text/es/Male/3.txt",
+      "bytes": 349,
+      "sha256": "d1cda53098f5612306dc11623e4f0376b6b95af3f19e82b48d3e5a41b2f2c81e"
+    },
+    {
+      "path": "data/raw/text/es/Male/4.txt",
+      "bytes": 319,
+      "sha256": "68a78b22055d479b3424d92f4c8d88945c01b42113268d781049c885f257c76f"
+    },
+    {
+      "path": "data/raw/text/es/Male/5.txt",
+      "bytes": 338,
+      "sha256": "d88430164260532d6426f7c2d6b4f31108585738f432bb43f99a55beead8f1be"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice1.txt",
+      "bytes": 329,
+      "sha256": "edd8db9823977b35c830478936d200b3c1158fa240c640deae64e5ac709a1c5f"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice10.txt",
+      "bytes": 321,
+      "sha256": "fad876fbb5fbde178c989899f74b7ebee6c689cdc71b8444a2fea131cf6ea9bf"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice2.txt",
+      "bytes": 324,
+      "sha256": "0de618921f3b49244c971d600e44d46d8dceeaf9a3ffb85a34346c9b70fadd58"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice3.txt",
+      "bytes": 323,
+      "sha256": "047c2844be69e6e32a9ad23e16e2716c62cb999fc0494df140ef890add700503"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice4.txt",
+      "bytes": 319,
+      "sha256": "a7d6d1d03a53e266015e961abec8aff1fe55cd37d25c9c2d6190e1f0f142f0cb"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice5.txt",
+      "bytes": 325,
+      "sha256": "d33c9d46c55637e4099d2b18c5fc21b53baf8541fba0729be50ac3029acff197"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice6.txt",
+      "bytes": 316,
+      "sha256": "ca5b50d490a1af5dcef0d9f56c102cb95925ab773e8408f60d1d1bb171379665"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice7.txt",
+      "bytes": 326,
+      "sha256": "bea38aabddd0bd1e480e716906d227de2ee3874c9ad50458cc5070f7a8629d3f"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice8.txt",
+      "bytes": 324,
+      "sha256": "efd280fd192f31dedbdbf57dc13c60ab8b3dc0d1652a8777533fee60233bc13a"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102442_male_spanish_voice9.txt",
+      "bytes": 320,
+      "sha256": "de91042c0844ba43ee786c64ec9563be5da16e4b85cea49bf5523ea4646be4f8"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice1.txt",
+      "bytes": 318,
+      "sha256": "6b9ca5c6477cb1f5865628da95a8bbf3d79f17faea73bf008296bf5cc8916d3f"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice10.txt",
+      "bytes": 328,
+      "sha256": "590be3ae51aaaf84de29af25a4625c21dda54ef90c30fd67061067936d329b28"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice2.txt",
+      "bytes": 326,
+      "sha256": "08b5ef467fcf38117b324df92e4a6e446d2af2bd7417c67df1642693ad485d3d"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice3.txt",
+      "bytes": 321,
+      "sha256": "0f54050053450bb0dc689205755acb364bd68996c13c087f4ec69fc6d170dca9"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice4.txt",
+      "bytes": 323,
+      "sha256": "983de1b6e68c71bc52f75c4d48d63c08912b44b4221932ffad13dbcd394e9c4e"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice5.txt",
+      "bytes": 321,
+      "sha256": "56fd0f8fd26d4ee233101611f94f5697ad5129310c62a90b58d18b69c71bb330"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice6.txt",
+      "bytes": 323,
+      "sha256": "a85a92addb96e1f70a429f8b205b71a7e56db6afb7ca17a09aa4f33c73e5a49a"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice7.txt",
+      "bytes": 317,
+      "sha256": "16b1805d7bd9b9d8589e60efe61cc5687fb957d7869b78254cf4ff8d42073de2"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice8.txt",
+      "bytes": 321,
+      "sha256": "575afd839a7391c20bed102962dfac7f071d5da0b4466d7a6465ee3f00b8c029"
+    },
+    {
+      "path": "data/raw/text/es/Male/810102552_male_spanish_voice9.txt",
+      "bytes": 313,
+      "sha256": "c08e5ecf327f1766a769c692a3bfa2d8621bbf4414f24e41c6c9592321058949"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice1.txt",
+      "bytes": 322,
+      "sha256": "c23ce83226d53a071b222fe5049b039ec64f0f038288383ff622aada8dafdebd"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice10.txt",
+      "bytes": 322,
+      "sha256": "5240f158ae7c488027ada2c038ae3584734b14e24cddb8eade66b6934dbf64d9"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice2.txt",
+      "bytes": 324,
+      "sha256": "00b75b0a85ee3bd958938ce4961ed52f050c47bbe35b86e0247bc655325c458c"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice3.txt",
+      "bytes": 312,
+      "sha256": "573f0b659f640d962d7d0c4116b4148242ef2e6ac0555d031753bb6553df8cbc"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice4.txt",
+      "bytes": 320,
+      "sha256": "070869c2530bfeb491e4924c687944f7cb469ce727d9ab60a2cd729b2c888d52"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice5.txt",
+      "bytes": 324,
+      "sha256": "f6158781d1dcd9f95413a7817456d2c65f94320a5b6d9ac379e1aeedf047bfd8"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice6.txt",
+      "bytes": 324,
+      "sha256": "b5d25e497e154a3ac0da2e7fee411c4be0e4557e7d26a477cbde0504c1ebce3d"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice7.txt",
+      "bytes": 323,
+      "sha256": "cf2ffdffd24232efce4c3666627a7b3f7835a25027fde4b2bd60df308e261fe2"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice8.txt",
+      "bytes": 322,
+      "sha256": "0a2f45cf113713a4c59d55431582c0d9360bf6e7a7b6ec69e603effab932d0a2"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103254_male_spanish_voice9.txt",
+      "bytes": 319,
+      "sha256": "6a32c0ccb48922f65f7bf4febb4c2b7dc862f70b7fb285112936a15ea9044704"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice1.txt",
+      "bytes": 318,
+      "sha256": "03047ade73dc0d05b2ef905a40e798d5362b6688e6611c32ff3909cecd21d911"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice10.txt",
+      "bytes": 324,
+      "sha256": "0ad88d41e5489cdc9af65e55dc76b933d0c2a37ae3972acb669d422fdf7a87a9"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice2.txt",
+      "bytes": 315,
+      "sha256": "cf81688ac31fc24ec7658569dfb8425dae458c4dde7ee4192ccdd4735a53bcee"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice3.txt",
+      "bytes": 326,
+      "sha256": "bfcde19cb47e20be4158de630da308e38606525ed8775bcb618e49fd54393f07"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice4.txt",
+      "bytes": 320,
+      "sha256": "832c1c2b3bcdf60212645ace087ba392886d5e46e88346b29c0cef4093337a6a"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice5.txt",
+      "bytes": 327,
+      "sha256": "e80af988a66a6462439eb86bf28e6319d1bee8a564360a15f6f477791b9d167b"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice6.txt",
+      "bytes": 318,
+      "sha256": "7c59075afd5165e6e16702b6cf5d44a516a0cf5a507bb3dc18ec44ec7b14c5cf"
+    },
+    {
+      "path": "data/raw/text/es/Male/810103314_male_spanish_voice8.txt",
+      "bytes": 317,
+      "sha256": "50bf0496e65ff67a066b276db8f6c6938dfaede159e35c530a2b106f7f4ca7ab"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice1.txt",
+      "bytes": 325,
+      "sha256": "61813561c0bcbae5593095b38d59e9672a9f4795363c866b0705e2ea4f7c5040"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice10.txt",
+      "bytes": 329,
+      "sha256": "43b605810dad5aacfe94869506bfba9e4ac3c2a643dcbf907dd73e5452f9e4cc"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice2.txt",
+      "bytes": 323,
+      "sha256": "299cdec1f29b7919693b1ff2b2bd6e751581022db6625e9e3d71fc064e27d9e4"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice3.txt",
+      "bytes": 316,
+      "sha256": "6bae27ba4c19b1db2dea91f1bb34d9ecf0234a8a0aba6e9735c40a71ebcef47f"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice4.txt",
+      "bytes": 323,
+      "sha256": "5a71bb228a33d0f5e18261b6e0a8b80d97acf41df3b562866046988fcb549f37"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice5.txt",
+      "bytes": 320,
+      "sha256": "60d7d080556b44411719ab789e8b832e853d8ac10e4d2b814d905890fb14a0d1"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice6.txt",
+      "bytes": 318,
+      "sha256": "ca6579bf48a7237f6560307532755f13ea664f641e26daaf7b61e827be7c1345"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice7.txt",
+      "bytes": 324,
+      "sha256": "5641697e1e311a0ab42fc4432e2170c8283ba6d59695614b72f3ff4026e62184"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice8.txt",
+      "bytes": 321,
+      "sha256": "00b83fff1b6168f11586fa9fbafe23750e265c6d0cfe25d78b3546741a10b5c3"
+    },
+    {
+      "path": "data/raw/text/es/Male/810104117_male_spanish_voice9.txt",
+      "bytes": 321,
+      "sha256": "125db65fa93355460821de59363d195863ef75913cf1ca81ab21455e3dda31be"
+    },
+    {
+      "path": "data/raw/text/it/Female/10.txt",
+      "bytes": 293,
+      "sha256": "1556af5acbe821bb6000411f9f1d807186c78c04a86acfef7c298bd355099efd"
+    },
+    {
+      "path": "data/raw/text/it/Female/6.txt",
+      "bytes": 307,
+      "sha256": "bf7607ccd4429c702d7627bd8601d5efcff66384a1f8f571b4486e3e8a4b756d"
+    },
+    {
+      "path": "data/raw/text/it/Female/7.txt",
+      "bytes": 274,
+      "sha256": "07adf1b1b6c4f3c21acd167c92c2ecc20e6694c7e73737159875ab2559677a5f"
+    },
+    {
+      "path": "data/raw/text/it/Female/8.txt",
+      "bytes": 299,
+      "sha256": "c11aaa6c00b3800cf0043c47e580de46571ff4b05eab7f3b04bcdf4a226c3ec1"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice10.txt",
+      "bytes": 313,
+      "sha256": "f7f3f7f694921d496c9304f98d542f4b7b140bc42a615a8c5d4079bf72697214"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice13.txt",
+      "bytes": 319,
+      "sha256": "936b75e879a76873e952db2d25ef744f051537f8cec9ac0a59cd704fe4bf4646"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice16.txt",
+      "bytes": 316,
+      "sha256": "c029d05d7e66daa88dbea0ee43322886a5e7aec116e77a10e2dea954b3663dde"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice3.txt",
+      "bytes": 317,
+      "sha256": "5175ffd356a8e7db88093e232cab18a6f9d2b3994b7f72281a1c3ef21dbbce18"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice5.txt",
+      "bytes": 313,
+      "sha256": "9a02c02019fca25ff5efe7e672a135a47c68904d6f5148b83e9a5553bc5d4c74"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101369_female_italian_voice7.txt",
+      "bytes": 318,
+      "sha256": "3a49f911749cc9aec4094d8fe5f1ed65e12b90ae4af1a44da309ec256c95edd0"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice02.txt",
+      "bytes": 315,
+      "sha256": "b49ff897875cce6fe32484f356bff8b31f881d83ac28d2fecbc4e2fe08144a24"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice04.txt",
+      "bytes": 321,
+      "sha256": "71fef79eacccdbc7e7a8f37d2f88377b69b92adf1e84004e5149470d9c13a9d2"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice07.txt",
+      "bytes": 314,
+      "sha256": "abfe5e3f3b6c6ab0cc8962fbaf6b6d5cf915e7e2e70e8445adbd80a493deb85a"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice10.txt",
+      "bytes": 314,
+      "sha256": "4fd01479e8937e8366e9e74b20d22350041eac0da684f7284034de2e227263a4"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice13.txt",
+      "bytes": 319,
+      "sha256": "b7bddde67ae4cb85251db9062dfd6daf589d1db9ff50852b64c7b88df4757dd3"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice15.txt",
+      "bytes": 312,
+      "sha256": "d51f65094c364642bc24f49dbb6e30ef02a215047a7132546b96806cf8b1889b"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice17.txt",
+      "bytes": 317,
+      "sha256": "35ef5de079797a92533e7fb53feb1798f51142ec2a91048ac83c54bcd832b555"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101409_female_italian_voice19.txt",
+      "bytes": 320,
+      "sha256": "7c566e81025589c3bbbf474a092417802510668cf1cf009c9f28a6be19a4d00f"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice01.mp3.txt",
+      "bytes": 317,
+      "sha256": "50880022df7fab4d366b87a8f2b4014634a1c2befbfe6a9f369dcda95b380cba"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice03.mp3.txt",
+      "bytes": 312,
+      "sha256": "9942bb1ad92cf59c9b770207a44dd5dce7fce4d29ca6752151eaab2fc2b37c63"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice05.mp3.txt",
+      "bytes": 322,
+      "sha256": "2590147d4527111d76ce7632e3ba30fa0d71fd9c58fd663c3c2c0cd2773bfe3f"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice07.mp3.txt",
+      "bytes": 318,
+      "sha256": "81ae3bde1e50a1810118bff959fb24ddd7697046858dbddeb9902fe8a0ee0e5f"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice09.mp3.txt",
+      "bytes": 317,
+      "sha256": "fbe098a7086b74a5e00319bec5bffa1e26385771ea23487a40a2f8ef96d033a5"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice11.mp3.txt",
+      "bytes": 315,
+      "sha256": "4e1e2bd01cadaaaf21b5c2091c67607d20f377f62fd155d89348a0b6b5090e00"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice13.mp3.txt",
+      "bytes": 320,
+      "sha256": "c27106a1b4188d4690186480e25ea545e0d3d58fe71d31f64694aab39e6ced02"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice15.mp3.txt",
+      "bytes": 316,
+      "sha256": "99edcb16ad233e77dc7181babf67e4fd6250916b34d5d8160b88dee282d48cdc"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice17.mp3.txt",
+      "bytes": 313,
+      "sha256": "ce6e54c7d263def1e22376465a003e5cc954b8861a8682cc828bb92a99eb5169"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101502_female_italian_voice19.mp3.txt",
+      "bytes": 315,
+      "sha256": "ec9b03cf2ab7aec597e830b809fb5f5623db79e5fab81ddd722b93c8e08d69f6"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice02.txt",
+      "bytes": 318,
+      "sha256": "d3ec0949b734d6f64d09fde601666c4b13a966673698c6388b49a1c04bb39cc8"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice04.txt",
+      "bytes": 316,
+      "sha256": "2f2a245b72b383331f922534e88eb04f0cda4660a46717f79d6ce480b39d9b5e"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice06.txt",
+      "bytes": 315,
+      "sha256": "40ee9e417f178657bb87cf507010c1376daf2dc92edcc5a24e3596127c8751df"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice08.txt",
+      "bytes": 310,
+      "sha256": "999c8852ae27471d63bbe7f54befce83e2263d9a9917bf736f2d27b033a7f5ee"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice10.txt",
+      "bytes": 323,
+      "sha256": "9b76d5afb4345144540ad8cea6bee56e6394595a82fa583b14fa528915a238a2"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice12.txt",
+      "bytes": 318,
+      "sha256": "8188fc53240cfd17e3d31ed67bd47048e1448e59ce199d724c54257d36db2657"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice16.txt",
+      "bytes": 319,
+      "sha256": "6fb312ac3a30e423e48ca1db11a726cfff1ea5f0f32217f7d17ee868853161f0"
+    },
+    {
+      "path": "data/raw/text/it/Female/810101567_female_Italian_voice18.txt",
+      "bytes": 319,
+      "sha256": "4151d27f182b86527e1b0d3f2037d12661c42b40c28c14fa764b590678064e64"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice01.txt",
+      "bytes": 317,
+      "sha256": "a866c73114cd3438768a34dccef6b13aed050014c52c80d322230f1732eef0c7"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice03.txt",
+      "bytes": 317,
+      "sha256": "18fe0fbf1d4baa4aa9aa506f095eb35be154bec202e24162e3174856f22e35a2"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice05.txt",
+      "bytes": 317,
+      "sha256": "b1886633377a904e6ea3664a4ad3a63c6a9dbb88aca88f4d4cdc6d68341f8370"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice07.txt",
+      "bytes": 320,
+      "sha256": "e3f226f0580b37cfb11ef67eeb3a4ab3e1d36358fdf6b8c4e6981a8fff46fab0"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice09.txt",
+      "bytes": 319,
+      "sha256": "edb446dd0e03e31a039d192e9274e18ba79e8be6357f7ce57d784d7000dad584"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice11.txt",
+      "bytes": 316,
+      "sha256": "7222ab20e3045ca8d6e40ca0427202562129487c41c7441f80824842ebed4a80"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice13.txt",
+      "bytes": 314,
+      "sha256": "02fe140391f44b05cbd19bb09d0957518f50ea0f252db8fb63f7acbc32d6a089"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice15.txt",
+      "bytes": 314,
+      "sha256": "a5411d3be655d49d377a974a4dacbd6746d998e062d34aeee9df2e3e15697571"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice17.txt",
+      "bytes": 312,
+      "sha256": "e8f21f02cf49492b7b6623107a1031031c77e698e7f84956efbc693a09eaea9b"
+    },
+    {
+      "path": "data/raw/text/it/Female/810102480_female_italian_voice19.txt",
+      "bytes": 319,
+      "sha256": "37b7f73be07415ff2413cdf9775c68bbaf4fe7dda9e33afb0a4c511b873e477a"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice1.txt",
+      "bytes": 317,
+      "sha256": "2d5fd75bfbfc839ed7b81cf4205063157c66e5f971d260b583909ce979a08541"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice10.txt",
+      "bytes": 314,
+      "sha256": "ce9ab7d52f27cc8c7c22e6e408ce730472e675d1310ea7d39a337f4e3f7d6a2c"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice12.txt",
+      "bytes": 314,
+      "sha256": "837f1176a1bd02946d202b3d4b3b6d1b30161d079e065fea7e18d7a5eded7fd2"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice14.txt",
+      "bytes": 315,
+      "sha256": "844ced1cec3799d2a577a369dd2f64aabec021c10b8c9d74c792e54d7dadc8db"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice16.txt",
+      "bytes": 315,
+      "sha256": "5023447b976553d24d16b06eaba758c7290c0f92c576cab7c8ab1026f936189b"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice3.txt",
+      "bytes": 313,
+      "sha256": "703e3992b13472d83f12b4890bccb2571c3af2d4c35cd4ba71de7f90749f7528"
+    },
+    {
+      "path": "data/raw/text/it/Female/810103058_female_italian_voice5.txt",
+      "bytes": 317,
+      "sha256": "c3dcac26432e39ad74ddd26b8356d0ee127af7038c597fe48f99c33f2a0c59fb"
+    },
+    {
+      "path": "data/raw/text/it/Female/9.txt",
+      "bytes": 305,
+      "sha256": "1fdc5a22b2a36da25f4f01c2fc168ebf58158ffdc00fbc1b95fbb5b1d0328b73"
+    },
+    {
+      "path": "data/raw/text/it/Male/1.txt",
+      "bytes": 311,
+      "sha256": "8857d5ab0b627ede80c8492d627b4563262746d19a9a782865ceac690e9704b6"
+    },
+    {
+      "path": "data/raw/text/it/Male/2.txt",
+      "bytes": 336,
+      "sha256": "07673be42ff97ffec0d14bcad250756bb8bb881aad66130e3d286d916c787391"
+    },
+    {
+      "path": "data/raw/text/it/Male/3.txt",
+      "bytes": 302,
+      "sha256": "da5e32413e230e4da57e42880b2b5352c6e7c66ea4c84fc743866c0b67b2fc7e"
+    },
+    {
+      "path": "data/raw/text/it/Male/4.txt",
+      "bytes": 310,
+      "sha256": "92a1f11fa9aea36d2b3d0699254adde01ffb5eb006d7477144a2e49f09ca5d7f"
+    },
+    {
+      "path": "data/raw/text/it/Male/5.txt",
+      "bytes": 327,
+      "sha256": "1f5dfd1255d5a622954a94f4cf0d47eb093af4697122fe3db9b2cbddf26de871"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice10.txt",
+      "bytes": 315,
+      "sha256": "5ff30b7e64fc9cc446194e43e966e6e6ee4d4eadbbb1f4c43d31e1486226597e"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice12.txt",
+      "bytes": 315,
+      "sha256": "f55e44097780e366001bccf9d54c771377cc0f13b03c2402bf659b41e388cf83"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice14.txt",
+      "bytes": 320,
+      "sha256": "7e2a7f2bd82da2c3f2c24c2f51e7a0b5029aee95e45d6c8952ebb4a6322d0327"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice16.txt",
+      "bytes": 319,
+      "sha256": "e193a0fbb69f6bb95e42ac5a6e8f861b17f049ed1a9b694518ff4013f61abf9d"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice18.txt",
+      "bytes": 320,
+      "sha256": "4fd4f75a7d43baf7af5369c24b2e2de0e5b81b6ca5cbe565bd21e6624fdb8b91"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice8.txt",
+      "bytes": 319,
+      "sha256": "e1e21b7d3cf7153a4de19d3bb8eb9c8a0e111f809cca912026a5191e8c2968d9"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101434_male_italian_voice9.txt",
+      "bytes": 313,
+      "sha256": "046b3d7fdea0977dfa6f3042548414e7b98222909fb41cf34161e915d1216936"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice01.txt",
+      "bytes": 323,
+      "sha256": "35312aef7ab4d2c41deb189dafd77bdfad8fefa0842f3e09befd3624e7e07670"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice02.txt",
+      "bytes": 321,
+      "sha256": "e0fb94d1869fd95945b9c7bc6dc62aed11df057419e50c3dc04f081c266f8f75"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice05.txt",
+      "bytes": 316,
+      "sha256": "579340d5c61f2d2281c24b00ba4c597d33d5d4d6a50017e39c38a78c58251163"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice06.txt",
+      "bytes": 319,
+      "sha256": "35e3a47b11972120a4aea7439a497e1d718732c9130a988b42f1304f85440196"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice07.txt",
+      "bytes": 319,
+      "sha256": "ee68ff7300d7e2b65123497fd0e19bc16690c0dcfcfd6755afe0a7fd426b5d81"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice10.txt",
+      "bytes": 323,
+      "sha256": "a6572810ac5f92eb01dfb83dea8703c8ec033ac7620f50333db06cca46046e79"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice12.txt",
+      "bytes": 318,
+      "sha256": "3471d6b1923d5fa6c4ecd033d4da12ceb4fb3507b4f940466742831dfa84e225"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice13.txt",
+      "bytes": 318,
+      "sha256": "b6c05152529a191ed593cb69116d6f552250b54f39d51dfda36e39198296dc46"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice16.txt",
+      "bytes": 320,
+      "sha256": "8fa679567951adbf153a4e31bd34e3e0608548c7ce471b7a90f9adf75f7b433f"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice17.txt",
+      "bytes": 320,
+      "sha256": "55e3f6109e2cce859a4024e4eeb84ab6458faa69b1a2e822c6e0aa6fe1352cb3"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice19.txt",
+      "bytes": 316,
+      "sha256": "904ad77d9bb12fd22c7027821c44bdaea28b6edd242b6bc32b196d53e59eab96"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101441_male_italian_voice20.txt",
+      "bytes": 317,
+      "sha256": "b8699209dbba41b405e12402679db1d672118e487b209f8802ffcb3eff0a0afa"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice04.txt",
+      "bytes": 315,
+      "sha256": "98270611e991df647569a834d5b1f2da356c3d5915ee2cfe6978e2d53247b62f"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice06.txt",
+      "bytes": 321,
+      "sha256": "3d955473d593aa0fa50113418674951d89bfaf879cda3797e74e3ed25fc58d2c"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice08.txt",
+      "bytes": 312,
+      "sha256": "f7129f4cc99792bbb17f2f2210f95d85866b36bd0fecdb783676cbf698365c23"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice11.txt",
+      "bytes": 318,
+      "sha256": "4d47564e9877e376457ebdb93072ac901ead9c7cf892d6f3c27c83e7fc6b8e87"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice14.txt",
+      "bytes": 316,
+      "sha256": "e401cec3402206142af687b5e3bf701348c6d799f9aad62165a5460be06dab24"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice15.txt",
+      "bytes": 314,
+      "sha256": "6264dc5b06f14aa638c05bf13af68b45c453a6dbd27f3e89cae7e50836308971"
+    },
+    {
+      "path": "data/raw/text/it/Male/810101493_male_italian_voice17.txt",
+      "bytes": 310,
+      "sha256": "6032848da05b1e37326f91a7d898137bb5607a9ca2c3eba8bf9cee05ac9fa50c"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice01.txt",
+      "bytes": 317,
+      "sha256": "a8a985d0e799c97a15755921484bede131233cd3f2211e33846f4c838e43c164"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice02.txt",
+      "bytes": 323,
+      "sha256": "1b0ed271090898ac13b84add7c8637a5a93eb18a8ebc20b612b988b786e9cc43"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice04.txt",
+      "bytes": 317,
+      "sha256": "41dbd7620a06124823e2e774c68caba1ceea4b8fad294a19555db360275497f5"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice05.txt",
+      "bytes": 319,
+      "sha256": "1817884a7bed103b08ff271dc6721356d160a6d2df2b62e399051dfb4f337743"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice06.txt",
+      "bytes": 319,
+      "sha256": "b410ee391b3d44584503c3f9391ae6eb6be880eaf62696f59faad5a2a98052f6"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice08.txt",
+      "bytes": 316,
+      "sha256": "c9a89e6725ab6ffa306ec59faa59896c2ada1df982cccd66bd1c60a0e2f8a2b8"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice11.txt",
+      "bytes": 320,
+      "sha256": "058bd521b7b399dcdf2ca5b796c35af50b187ca41f75e959c1c3547284122986"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice13.txt",
+      "bytes": 314,
+      "sha256": "a8010f32c588a4873b48eb3bcce03a80ebe909a0700a7e35a45405eed8b94f75"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice14.txt",
+      "bytes": 317,
+      "sha256": "741cd196ca41b6fad4120d05c290fe8d0f8d2c7a54095c98715aaa4b973b9258"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice17.txt",
+      "bytes": 316,
+      "sha256": "2e26381bb0630b2bceaa5ef55ead6630b2714113952b2c4f8043dc07b8d9a605"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice19.txt",
+      "bytes": 318,
+      "sha256": "63e0dfcc560913b67b31b93d5cbbefd51d978f3a1d9a5318e2ff9e0f55f22188"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102393_male_italian_voice20.txt",
+      "bytes": 321,
+      "sha256": "97dc6106c13af452f68b0c604087fc9b80c70968e28036e34aa5881e45766cce"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice1.txt",
+      "bytes": 315,
+      "sha256": "98129ea68097c2942f8e0d505eb309d632972f6ecc099c44ec6782222d0740bd"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice10.txt",
+      "bytes": 316,
+      "sha256": "dc6b9b8f0c8c54f069087fe16c6dad01c67c19c56121c9b7f3a0dcc0ed92cd5b"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice12.txt",
+      "bytes": 319,
+      "sha256": "1f24b1dfdca53b4560bff227acfc170b77eb54a2189f25ead37a812f545be7d9"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice13.txt",
+      "bytes": 315,
+      "sha256": "3ffc9b9616d5eb4251a25054ff6491849af9cdf4c0f5fb9df8666849967592a7"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice14.txt",
+      "bytes": 310,
+      "sha256": "2a2b6e43b3d91462c75ff762e424cf28d524f2e513492574a7aedab2f06c1ed9"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice16.txt",
+      "bytes": 317,
+      "sha256": "801c9d9cbb7eeed676afb9419381abb4dd909b94afdead80141a385a86cb9142"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice17.txt",
+      "bytes": 310,
+      "sha256": "05bc3092a54e6c19619e492fe66c2f171c4c92e370c50e2a7d03f76ed484860a"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice3.txt",
+      "bytes": 317,
+      "sha256": "81b01c6b2bddb1688005250a21a0f07b42b9282c32f081c2cf6a3abf2289a4db"
+    },
+    {
+      "path": "data/raw/text/it/Male/810102443_male_italian_voice4.txt",
+      "bytes": 318,
+      "sha256": "2c6b85c3c0ae86bcf59517f18deb491e751a029226c8510ba88756eff758f70e"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_001.txt",
+      "bytes": 943,
+      "sha256": "65980b765bb22d22ed77b149af8b217051b679050ac0820d2065677f13866a6a"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_002.txt",
+      "bytes": 943,
+      "sha256": "bb16a71d09037facd2a1e28af4c46d90ac28bc4555ce6618e198c341b53fccb3"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_003.txt",
+      "bytes": 943,
+      "sha256": "b3161ae0a4a920ac1598b411ba41a7daa7b1fdf59e2c3e5d61f2677d37be95fb"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_004.txt",
+      "bytes": 943,
+      "sha256": "3efe9053e97331f59e12b7e34196849b4f658ffd7000462d45217a759354d0f5"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_005.txt",
+      "bytes": 943,
+      "sha256": "a6eac128dea731643f2d7fc06f04caa8e5e9b46492e84e13b6bc4e2916ebb22d"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_006.txt",
+      "bytes": 939,
+      "sha256": "65cfd94f364916b4013309e4c885eb058ebf47a4894464b3964c30e3eb4455f1"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_007.txt",
+      "bytes": 943,
+      "sha256": "7998216aa3c0ffae39376c0cbe26c78beceb9b2ff972873fae2fa1b151417dcf"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_008.txt",
+      "bytes": 943,
+      "sha256": "f8e12acc35293777823f9c3f09cb70a0eb3a57706f1535ba14c1311f586b533d"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_009.txt",
+      "bytes": 943,
+      "sha256": "6cfa7c2b0c81abad4faadfa4fffdfb8164531040ebbb01bf9ac5a17852e201d9"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_010.txt",
+      "bytes": 941,
+      "sha256": "5c01d9a814978a44a72b686cdc5875621f744a3e7595cdda64b896a1e34776f5"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_011.txt",
+      "bytes": 941,
+      "sha256": "cc9b305a722b76fc1e546a7e0459c0bf267bacfadb5b4381642f3a9fa5928164"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_012.txt",
+      "bytes": 941,
+      "sha256": "3b3631bcc2568205ec426b93b8c026841506058be7dad1a268edd5f6909e85a3"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_013.txt",
+      "bytes": 941,
+      "sha256": "63902b79720d4bea44765298df4796278749352fa5b84e38048c766612712254"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_014.txt",
+      "bytes": 941,
+      "sha256": "03cb7075ce0bb38196266c40152a9981400816ae1aec114be461f20e55232a17"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_015.txt",
+      "bytes": 941,
+      "sha256": "f738acc0b64f336c63b96983b6035cd18e31c04e6fa7d0c0193e165edaa7afb1"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_016.txt",
+      "bytes": 941,
+      "sha256": "4ced2e8ddad7d82989f6d6877bc3d935b1f0eb515076b3c0b9d88e3795871f22"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_017.txt",
+      "bytes": 941,
+      "sha256": "2acb1847acefaeb2d3ce753b7538de5a8a1848de431880582d48a552720bdec8"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_018.txt",
+      "bytes": 941,
+      "sha256": "8608d8105cae286a1a16130ea339ebf6cb9166cde70bf901cabdce3fd39eba5d"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_019.txt",
+      "bytes": 941,
+      "sha256": "541d339a886993268bce3ef0f6722e03f6b831c54c4891cfea1c7f8a54904af2"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_020.txt",
+      "bytes": 941,
+      "sha256": "82f58763495e71b3b9e78ee05fdd5151a4bd30c4d2e3cc9e5c35f4faa55399c8"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_021.txt",
+      "bytes": 941,
+      "sha256": "c7e00dd85789c3577897049b39c0e726616d0a102b2890759a50835f54d71423"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_022.txt",
+      "bytes": 941,
+      "sha256": "408233d6e7552bd0be570f22e2c2c95bfbb019d23db104718e907145bb931f29"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_023.txt",
+      "bytes": 941,
+      "sha256": "afb800f7534f8cbdb20f8a078fc01de0742b622c05a965764ce25d6e0af46d09"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_024.txt",
+      "bytes": 941,
+      "sha256": "b171cbb3e9daa55952dee7165cccea9c250c74568690e5374b11c232d32b6aab"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_025.txt",
+      "bytes": 941,
+      "sha256": "af4aa6d68273bbcb9ecc7eeaadc7c7821b6a095fd8f72ba37aa0c013e4d97787"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_026.txt",
+      "bytes": 941,
+      "sha256": "d3e2964bbed4542bacd47a9592005beb56a5c6857a96411a08c143eaf83c2ba9"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_027.txt",
+      "bytes": 941,
+      "sha256": "b42eca468ab95023bb422dd40e75d4bfa8de374330b89a1c37aa64aa73c33c77"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_028.txt",
+      "bytes": 941,
+      "sha256": "c083ef3305ab134321894123da89f032a54c76b23d007086baf66748e5574340"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_029.txt",
+      "bytes": 941,
+      "sha256": "d0496441ca088bf3dc5991f66f68408df421101656a80225a3ff0a89719f1f8d"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_030.txt",
+      "bytes": 941,
+      "sha256": "24ab9779d69974fa5ea5c27ab6f5c15c110c5a58b24b8f2cdf136564d348a598"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_031.txt",
+      "bytes": 937,
+      "sha256": "c30ad988cb48b63d3c38dd0e1f5c785432fe9af7b254632aedc273b6036b6171"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_032.txt",
+      "bytes": 941,
+      "sha256": "b48da90d439170b10428ba92b3e27cab5649e47e02542fb5005b225e2d75b815"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_033.txt",
+      "bytes": 941,
+      "sha256": "ba3b25e198ce98e163ad83b7c3cde00b694644470e80cde420ad5496e2b93a2a"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_034.txt",
+      "bytes": 941,
+      "sha256": "59a42d5536b1208c00db5bbdd0e974f518ef62ebe15dee8a3cf55752c1a72788"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_035.txt",
+      "bytes": 941,
+      "sha256": "ddc1c742618d11908d67106e36f5d77746788fc67b1b8909630fa232783de5f0"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_036.txt",
+      "bytes": 941,
+      "sha256": "9673ac3b107a7d9a7fc0db76b28da8f79d2a889ce15ea2bb391118ba5be825b9"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_037.txt",
+      "bytes": 941,
+      "sha256": "c2efbfa09c9232e905d93bfa609bd34182de90689802a43d0e3413ca64bcceaa"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_038.txt",
+      "bytes": 941,
+      "sha256": "3a3d86a147eb432a1b5f0a090b7f693755e679a74c9365066014b81229ea75c1"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_039.txt",
+      "bytes": 941,
+      "sha256": "e9259a2da11cebe07aaa5aef38b2702f85f17242fe74b5c3438a3bb83ccc94ef"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_040.txt",
+      "bytes": 941,
+      "sha256": "3cd4962f4e5d46a90be05ce786fb2ec1978d0f250b653680025f3cc7a26f681d"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_041.txt",
+      "bytes": 941,
+      "sha256": "c788ccea998b23fdb9994c505c2e21c0f00d95fc8180c79e6e783c6bc623f1eb"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_042.txt",
+      "bytes": 941,
+      "sha256": "c34495bba88cc08cdeee2e76731e98821af1b3f55b14cbe31c68ffed87e58372"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_043.txt",
+      "bytes": 941,
+      "sha256": "7e2e9ad7c1763e392c8f3dff42315a2f2bc33f48e8866dc67f417802e59ded2e"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_044.txt",
+      "bytes": 941,
+      "sha256": "c0c4cf762f09755e824b96354d2e414626d60c298898d564defea8808044b865"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_045.txt",
+      "bytes": 941,
+      "sha256": "d2d1784b27c588fcc79dc8ce2d85dad725bf0ac78ba67b2a3e74f3bcec260002"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_046.txt",
+      "bytes": 941,
+      "sha256": "cf533fddb7f743593af7539369440c808e0a4469c9ae155ed1a4e25134b847e3"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_047.txt",
+      "bytes": 941,
+      "sha256": "3997eeef45648f390a954bb2f02aca433aa11d6232700b0e4ca299dc99e07f99"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_048.txt",
+      "bytes": 941,
+      "sha256": "b64ee77f746e3f23e58d63120e5bdbe7010155e7eaa32fb0c4575fa4db3cb10a"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_049.txt",
+      "bytes": 941,
+      "sha256": "1648c952fac06f877d725958ff46833a9e6c8e44f437f275ec0ab9bf62d98c65"
+    },
+    {
+      "path": "data/raw/text/ja/Female/japanese_050.txt",
+      "bytes": 941,
+      "sha256": "cd5c1cbba6d135a3a785522ae5dcc40d10b734c4cea3d6ed09ce3b8393046fa4"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_051.txt",
+      "bytes": 941,
+      "sha256": "d83cd62c1de03281ecad22ba0c694fd96ca1d9d864214e6664c250a0e6dac8e6"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_052.txt",
+      "bytes": 941,
+      "sha256": "71530be421c614397bb23b76a900da18a881640033239ce4a5857b1ff364a3ae"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_053.txt",
+      "bytes": 941,
+      "sha256": "f473e8678af37e824691eb354af3aedc019fe8b98414f5a9f102246bb6e87942"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_054.txt",
+      "bytes": 941,
+      "sha256": "d165aafc3f50d3e83f1f6ddea75a899f425ef3c2803448f86aadadd109463e28"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_055.txt",
+      "bytes": 941,
+      "sha256": "8a979c5acaaa49d68dd08e60f40bd92e799b8526af5da86ac478bd64ede28be8"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_056.txt",
+      "bytes": 937,
+      "sha256": "080ca3e5a1423b43f3f4fea079faa8ae0309c86708d7c1c7c6e49e4251ba904a"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_057.txt",
+      "bytes": 941,
+      "sha256": "1941b59961ad99359baed572980fa6010e7cdd067f8769c5e71b8a469db804ff"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_058.txt",
+      "bytes": 941,
+      "sha256": "46f4f0a955422c25fe597a8383885a8f738432c358f71ecac993e9e47cb11cdd"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_059.txt",
+      "bytes": 941,
+      "sha256": "3d6102f1d500771dcd29823558514b72272831b3239d3eeaf2e6bdabd2ea6b83"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_060.txt",
+      "bytes": 941,
+      "sha256": "152430156ad0e8fb8e4ef0efa00b4228743f64f0928125470d73118c579187f8"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_061.txt",
+      "bytes": 941,
+      "sha256": "3aea4824c6f8347d08b3a92570d85715cba900499f8d52ee321eb7d9b0105f85"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_062.txt",
+      "bytes": 941,
+      "sha256": "45da383f26186463a427bd9d6f7ae01cd3d1b7bf2db1a3ac6684afd78c082164"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_063.txt",
+      "bytes": 941,
+      "sha256": "3baf563b75a13c1c9e37aaf09bc8c2ddbe23d55462e715cb2c9760bf45402641"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_064.txt",
+      "bytes": 941,
+      "sha256": "e5a9a5144200d404776619085d8f4a812fc908754e3f91ad11f1b4055cc94a44"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_065.txt",
+      "bytes": 941,
+      "sha256": "bbd66eda35bb8559e8a44bc585eea44f5c01e4baf7191b77e460c2ce46bb4b6a"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_066.txt",
+      "bytes": 941,
+      "sha256": "56e4535dc0f5455b694959e2c36e22f4cf628b4fdb46ff03dee139acf8a5d1cf"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_067.txt",
+      "bytes": 941,
+      "sha256": "f00f225daebdef7cc94dadd35c4e85fbc7a53ce09fc99ce3c4f3b173240ea0df"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_068.txt",
+      "bytes": 941,
+      "sha256": "3f1c89d7235a7ed880698bb674c2d9b661695995ac1aedc874c342355330ea63"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_069.txt",
+      "bytes": 941,
+      "sha256": "15faf6e9b69a9dd062e1a7cb8e934cf9e2324dababbf997b17e38b5bb81bf84c"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_070.txt",
+      "bytes": 941,
+      "sha256": "16f0eecc2cdb062311fb321d8f8e776efc4b39e3813f12b511607a4aca60b537"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_071.txt",
+      "bytes": 941,
+      "sha256": "7458d7ec35c4feb16ca1188a5dae1fecd4cf12bc96c1a0530c981f8e65c127b8"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_072.txt",
+      "bytes": 941,
+      "sha256": "15b931808d3ddb650bdf80c95cc6466197ab5eac97599f205fcfde0608f20f96"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_073.txt",
+      "bytes": 941,
+      "sha256": "6f7be7b3633f9835d3a224e424bfd61b8d839c562148a174f0d4d50095cd13a7"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_074.txt",
+      "bytes": 941,
+      "sha256": "c32d6aaba4924e0e2d1378cc298c4a221379fdc701caa89a50c720497ed6ed32"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_075.txt",
+      "bytes": 941,
+      "sha256": "724ee242d15f578a1757c2d009d0b56bdc33ca4a4b57c0da053f27b23cc51a64"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_076.txt",
+      "bytes": 941,
+      "sha256": "8d305d8c6ad9aaad3f52f56375fc6f069593ae02bc0528eb8bea7c611f6706b8"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_077.txt",
+      "bytes": 941,
+      "sha256": "9ff4d5ce84f835fda0fb6b5a7c07e0a1808e75eff0e54f4d829ac498b082ffd9"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_078.txt",
+      "bytes": 941,
+      "sha256": "facc36a080755c6af30d6bf498d2ee9fda890b44e3ac616a669e42c499a2bec7"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_079.txt",
+      "bytes": 941,
+      "sha256": "cc06fe4702fe29e4c2d44f9f1c4dd315c320380742a5063d504489290e395e58"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_080.txt",
+      "bytes": 941,
+      "sha256": "fcf470579a04144d27d0e7564dee2b7501f622cfb310fe29dddea799e6271a54"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_081.txt",
+      "bytes": 937,
+      "sha256": "b2b44cf1d312e150258031a9bb09e0cef941c1e71277a3b491ae660b230af6dd"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_082.txt",
+      "bytes": 941,
+      "sha256": "d02a656cc0981ac23658cd68ea3c9dd158483073630b16124239d4d4c1bf2393"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_083.txt",
+      "bytes": 941,
+      "sha256": "f5f2567caf06b049f31c0ae225264ff92c19910b61e657b977437663820f7bc6"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_084.txt",
+      "bytes": 941,
+      "sha256": "7da333853c702c4366417b9bf44277bd23e85bb8b00d020ce6b0e0edf5dd7288"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_085.txt",
+      "bytes": 941,
+      "sha256": "06489dabc7144161f3f80adffc37f4c3c689e83b1e177cb44a342c866d5ae10e"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_086.txt",
+      "bytes": 941,
+      "sha256": "057e744556ce7f09160d9c16a0b062e9099421faf65cf75e5c33d6d8b396e71c"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_087.txt",
+      "bytes": 941,
+      "sha256": "7df258946e25dbe18c02181de6e40b495b36378d4f77cc01d44044e54a854780"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_088.txt",
+      "bytes": 941,
+      "sha256": "6a5d277273d6a5b465c3dd7d65931b0bc69d5ecd92600f96103b85f5e91d1579"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_089.txt",
+      "bytes": 941,
+      "sha256": "88b52bffde9d523bd77fb580a170056e52e3bb1039c47d7d81ff3d8c95589f90"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_090.txt",
+      "bytes": 941,
+      "sha256": "a8c6bf3c3924043255edae3077d922f267306f2d850bec719cf8f78572d22a07"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_091.txt",
+      "bytes": 941,
+      "sha256": "b4739aa4a52efac822ebf9e4c679b7d6b9581d4a5671449d2519de3f864b2b61"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_092.txt",
+      "bytes": 941,
+      "sha256": "35e3068ccb20b2fde351016de8979f405ffeceb60a29b53165f4b191bd53d86b"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_093.txt",
+      "bytes": 941,
+      "sha256": "58b48ce772bc6cab423acf82a28c7469bb1919d6240b429546681f87cd2aa55e"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_094.txt",
+      "bytes": 941,
+      "sha256": "02bcf82193699951428c85de27ccf81edaf4ab16ae07535b8a772feb37acf10e"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_095.txt",
+      "bytes": 941,
+      "sha256": "c198b61a009b557b421c6c5327bdf6e57612371f63c01861fafee84299875123"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_096.txt",
+      "bytes": 941,
+      "sha256": "9449c15ac6510e3c73b12425738df649585bedc5dc1e1c84e69d6463d08ebce1"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_097.txt",
+      "bytes": 941,
+      "sha256": "d3aead3564d705dac8bac2d1ed78da46b61f2b1732975609ad79b40d20b07697"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_098.txt",
+      "bytes": 941,
+      "sha256": "92dc353c61b54edfa33d24f4eef6feae71e56b9d3e1fcf07b881c059ed917540"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_099.txt",
+      "bytes": 941,
+      "sha256": "9f365e60c168dae263ae0510ab30f41b019007164a835f95606217b5e4b7c75b"
+    },
+    {
+      "path": "data/raw/text/ja/Male/japanese_100.txt",
+      "bytes": 939,
+      "sha256": "5f39ca055590a6ee3c6bb3e50db711ce6beab67b05b228456c25c73c04b21d52"
+    },
+    {
+      "path": "data/raw/text/ko/Female/1.txt",
+      "bytes": 759,
+      "sha256": "81037d1d84f03a3bba5f6c310e0411935ec16d98ae9c287e07e5dc7e32b8614f"
+    },
+    {
+      "path": "data/raw/text/ko/Female/2.txt",
+      "bytes": 759,
+      "sha256": "dcdf6cf8d6e54cc6d4db610492fb71f8afa9a594e6b98e439626382d782b786c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/3.txt",
+      "bytes": 760,
+      "sha256": "9f80291836064b76d2119e956470902b94accedd72a97926de95552ee2daa49c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/4.txt",
+      "bytes": 745,
+      "sha256": "96b211c29364ec72f13073e6dfe843f65093480d90fb1beefd888769d16106f7"
+    },
+    {
+      "path": "data/raw/text/ko/Female/5.txt",
+      "bytes": 729,
+      "sha256": "f19c6f407ca9fab5c20354fba7c24231c129ca9501919a7c74e7a0b1a8be480c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice01.txt",
+      "bytes": 702,
+      "sha256": "cb5fb1e2c9401e6b638c55d6b959bdaf891963f0a820d9ec8be367d57b5b0130"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice02.txt",
+      "bytes": 661,
+      "sha256": "cb6fde0df8c85fee3797aceac601d3c0ae3ecb9617755af5111378f80736cee3"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice03.txt",
+      "bytes": 708,
+      "sha256": "c8027261367d909a2a51a3ec7953b099c6c76ab989bc41751da3a340350bcc4f"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice04.txt",
+      "bytes": 722,
+      "sha256": "972996c55c343bdb80c336a07a4db8a62e0185de54e066b4d78ce00d5e292715"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice05.txt",
+      "bytes": 787,
+      "sha256": "50e0b8457cdab58d1229656e01bda9e93d383619aee6c86201cfa3e143b3c175"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice07.txt",
+      "bytes": 787,
+      "sha256": "1ab9eae1322e24999cde5966ec45dcb5b2f021c6081f1787074e4919ddf2be20"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice08.txt",
+      "bytes": 810,
+      "sha256": "0035a3645a5fd251e763b022f25967cd5b55e8fa19e4323d801408f96ce4916f"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice09.txt",
+      "bytes": 886,
+      "sha256": "954bf87d196b992db59d90c8d980d221caa50c2d903322692275ddcc049f8d21"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice10.txt",
+      "bytes": 826,
+      "sha256": "abb2ae2641c3a12fe2df3de7e1049b4c69a9394b53c1b5c0a452770d2890f703"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice13.txt",
+      "bytes": 824,
+      "sha256": "74ce47aa563b20f8f4cc4f5039b10ee25f2badb9d4e4993be492190f8fe4f3e0"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice15.txt",
+      "bytes": 817,
+      "sha256": "237e17ee3024b41c8dd22f5d688665223a34534f218dfa6ac6b489c2be538c79"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice16.txt",
+      "bytes": 693,
+      "sha256": "7066bfb5698dcf6429c056f499a5110914aedf56da6dbd26c88dd2fbb63b5bc7"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice17.txt",
+      "bytes": 637,
+      "sha256": "6d301062b7c15097f68af5a8c9bc2b2f2e5975772c2975a06f60ab2d41ba27b7"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice18.txt",
+      "bytes": 744,
+      "sha256": "8b9b84ae513374b8fcca6070bf9a173175082b67fc786bf5cdf7a30303f34f0b"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice19.txt",
+      "bytes": 554,
+      "sha256": "530b281a311c4aa50880a3492ee71b28161282c21c79225b1943dd76cf144669"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810100094_female_korean_voice20.txt",
+      "bytes": 841,
+      "sha256": "09bc133de20dc4b610270af8f59d55f7db8363fe50b85cf2ecd4d8cd8334e706"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice01.txt",
+      "bytes": 822,
+      "sha256": "e37568c27bd4c75bfee0e33de178eeaccfc57fab8052eba3a54df0c6eb951feb"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice02.txt",
+      "bytes": 832,
+      "sha256": "601e5b60e7766e026040ad0fda949cc33d954e24ac1bad8ac31090795b3700f7"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice03.txt",
+      "bytes": 773,
+      "sha256": "5c7f3399899111bc594371ffd0c8d1177ffd4948c24eba93a884c41437ccb87c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice04.txt",
+      "bytes": 880,
+      "sha256": "680992d24d597d6dedadf76df33ca4fa7b4d1c4789699740b5c7d31eb34a3379"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice05.txt",
+      "bytes": 720,
+      "sha256": "a4c3e858ff3a198f4f98b3635452896f50f0ec1ae3d23c90967d17853978dc7c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice06.txt",
+      "bytes": 633,
+      "sha256": "731a80cf562bd8389f07d08e0b9b6704b2d2ec954fe9d266d6fb70d99dca0071"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice07.txt",
+      "bytes": 576,
+      "sha256": "037ca7bdd1d473faaaf57b9d98de0ee78696443e8d3ec6a5f6ad3c36cf117e15"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice08.txt",
+      "bytes": 701,
+      "sha256": "f4254a530c405720bc7e2184d9c6f1d53b276d73936eb5acb1247c714b4b1eef"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice09.txt",
+      "bytes": 737,
+      "sha256": "7e0c38a8008751a98474763488a99ea22d30fd194b4cfaa7cb365eb5e7e6ed56"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101373_female_korean_voice10.txt",
+      "bytes": 777,
+      "sha256": "edc031558a42d72d2a042d811e8ccf6005851375e95e23e9fc446e9b6c4f4fce"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice1.txt",
+      "bytes": 814,
+      "sha256": "599d6dea0357e7bc354491792a2992bdfcf83c66042cb25b610d7315958262bb"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice12.txt",
+      "bytes": 675,
+      "sha256": "1c73c747e16164b36e6dfee876a4fff5fb386aa9b02fda72d8da8009b4ba10c0"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice13.txt",
+      "bytes": 655,
+      "sha256": "a90b9aef33ab08e54f5664b595282b925c7aee9e757b07d1cae46aa081633f6c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice14.txt",
+      "bytes": 722,
+      "sha256": "58e486d72dffdfa5552cef25a74c8fe29c479bedeac1e977e7f5438ba23b764d"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice15.txt",
+      "bytes": 678,
+      "sha256": "b7b4904f96ba8a6e043f9cd0b04050a92031a0e6c4d7f30fc3f55f498a537f7f"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice16.txt",
+      "bytes": 650,
+      "sha256": "8a4627f6dd91d7efcf657507d82e262198be72a668f8f03927830df7d0a88bf3"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice2.txt",
+      "bytes": 833,
+      "sha256": "78772a136cb6c505d217f28283401e9f3ad3ee6602fa81a1a778d230ac4dcb28"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice3.txt",
+      "bytes": 848,
+      "sha256": "040c522469ac7bb0734ce305f16c11c82a6c34b6f88ab8d0da872781eec41394"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice4.txt",
+      "bytes": 817,
+      "sha256": "49d868f7ed2ae66ee650a37463aaeec1c812c3e959497faf0c93772cb418482c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice5.txt",
+      "bytes": 776,
+      "sha256": "32284da4de2de17f529dab4ce187be42ba9d07863c9b254c05a3c829661aaa51"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice6.txt",
+      "bytes": 745,
+      "sha256": "12357d461ace8dea86350a7e15f1ed73e1c37f428a98a21d615fac28be64851f"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice8.txt",
+      "bytes": 918,
+      "sha256": "5a97b6fef57693258fa4b70bb2e823c69e6154644e98274a33067aa5497a8ede"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101394_female_korean_voice9.txt",
+      "bytes": 883,
+      "sha256": "5885ad40c4f145ca7ff7b9ba75f6b717e14a06ccc0c34d0ce85dbe98385c923c"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101404_female_korean_voice01.txt",
+      "bytes": 740,
+      "sha256": "04c392a0abab84d84bb1e9b3cfc7aa27b676f02e3036be8ff758c14d17e96adb"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101404_female_korean_voice03.txt",
+      "bytes": 713,
+      "sha256": "a881f347fc7fa43c34a6cc93748c732c732b1350e9761c801b427d059a6804d3"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101404_female_korean_voice04.txt",
+      "bytes": 387,
+      "sha256": "66b4f0f079ec21b28ebf6d9819c5a57f8775b00ad0c522a46f9e5aab57b3b339"
+    },
+    {
+      "path": "data/raw/text/ko/Female/810101404_female_korean_voice05.txt",
+      "bytes": 619,
+      "sha256": "1559ef646e93a2870aa7d33756c5b56055de2b8f4955f54c6e3430d29ad09f30"
+    },
+    {
+      "path": "data/raw/text/ko/Male/10.txt",
+      "bytes": 1017,
+      "sha256": "75f045bf61e1b277012fec53c61decf56e03f49a756df8ae24bf215160eec2c6"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice07.txt",
+      "bytes": 820,
+      "sha256": "cd187e5a661435f69f7598576518a92228271a3b4b5334b6bccfca347270d96d"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice09.txt",
+      "bytes": 861,
+      "sha256": "4de67cb99d68533dccd17ab42724981c954ccf6193137ec5da936dae7c459064"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice10.txt",
+      "bytes": 703,
+      "sha256": "b202fc476c151597432d6cad725ab217dea633c64953a06c95d754bb0210a112"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice11.txt",
+      "bytes": 635,
+      "sha256": "7b351a596b3f90ef79b33fba5000b0045b8e0bed9a310bc56b7bc62055778170"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice12.txt",
+      "bytes": 730,
+      "sha256": "2d13fcf7602354dd141a3a9d91b8db26e6a22f7bac7d070a229c7ce5b82663ab"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice13.txt",
+      "bytes": 799,
+      "sha256": "4a278d9309f89ff3c838bbb46fe04b6c946acf625aa396dd26a7476d086ab318"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice14.txt",
+      "bytes": 699,
+      "sha256": "18212a247d2a7e2c159c5b63a9671f16bb145a8509619442f3c962c9bef6b9bc"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice15.txt",
+      "bytes": 794,
+      "sha256": "b9ca9aeda1e0e06e9d8a8899b104297764abae13c71156cb3c051a46f9039cd9"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice16.txt",
+      "bytes": 754,
+      "sha256": "7a4b080460898da90a57a04d3dab868d38dbb741a388c9497450064f230377e5"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice17.txt",
+      "bytes": 812,
+      "sha256": "396d72b0e6956aceb02bd750f934d26c42078fce939e7dbd460ed91ef40c392e"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice18.txt",
+      "bytes": 669,
+      "sha256": "eecff4882cce3e0226d6bbed58cb9bb91def0c8d2960ec80debaf34c28c3eb54"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice19.txt",
+      "bytes": 655,
+      "sha256": "c16dc892b82a712b6c7a1db692c4618221596c452985b22d0994b4828967eb09"
+    },
+    {
+      "path": "data/raw/text/ko/Male/220701055_male_Korean_voice20.txt",
+      "bytes": 828,
+      "sha256": "7704ddc0db27fe32a35ab6b8f57f68e3803eeb6eaeece704c12120afe15109a7"
+    },
+    {
+      "path": "data/raw/text/ko/Male/6.txt",
+      "bytes": 745,
+      "sha256": "e019f5823f7a7e38a02ce59fe22e0fd7dc9641195e70149a16d4472c95dc72b4"
+    },
+    {
+      "path": "data/raw/text/ko/Male/7.txt",
+      "bytes": 756,
+      "sha256": "d37121c7eeb4e3a3cce4e9c1ea3521352c5d03dc88c0be02ab520fe321d97efd"
+    },
+    {
+      "path": "data/raw/text/ko/Male/8.txt",
+      "bytes": 714,
+      "sha256": "c7a9bc16e3ae87eab1a66546abedbb6d0e62a165fd5a9effc87a3d0a36f60428"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice01.txt",
+      "bytes": 786,
+      "sha256": "4edbbf8a9fdd94e12b7c216664d181b5b66f574f16ea60f072a52e34c650196d"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice02.txt",
+      "bytes": 677,
+      "sha256": "abb078d5e4bd7713b187a333ad5097e52191cf55b794db4027ed9e0e480b3217"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice03.txt",
+      "bytes": 788,
+      "sha256": "6c3f1ed001c68cae312df4e7ffdc8ea38380cf22276eb3d63aef801728251c23"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice04.txt",
+      "bytes": 775,
+      "sha256": "4d120c9b498f04fc366b2eecd5c72ffd1841676ba5c274811fa65bb601a920b9"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice05.txt",
+      "bytes": 802,
+      "sha256": "ea9861e579ebdbd3d1122d461056ca9f9857ed726d7eff5d8b1eecf8e430ea58"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice06.txt",
+      "bytes": 839,
+      "sha256": "a728d497f4ab8e4370abaa5d7aed716dbae70e8a2361f5de1119aaad4b4953a9"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice07.txt",
+      "bytes": 890,
+      "sha256": "d6471a989460762c1d3c2a3e1f026a5703162fda7a85b29baba7058f5ca3682b"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice08.txt",
+      "bytes": 920,
+      "sha256": "10e94ef476cfc16869ff1777c1849ae638c1d3eded12caa0e1db7adf07f67025"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice10.txt",
+      "bytes": 844,
+      "sha256": "a3bb88ebbfcfc8e40091b167454a1dca15796d556f43d4ff4b2724f72aaba86d"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice11.txt",
+      "bytes": 911,
+      "sha256": "effa18d235422123a8cb1e061a07404d1bf8eafae6f06ed68435904cf56bb2c5"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice12.txt",
+      "bytes": 799,
+      "sha256": "2194c5f03f6f048191f5b246d0ceaf459cefc27064b294780e2dd9a0dd3ed9da"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice13.txt",
+      "bytes": 900,
+      "sha256": "807ace5cb0570f780cc7f618dd1d419f32b20653449eef22cd3a98505bf92c26"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice14.txt",
+      "bytes": 857,
+      "sha256": "7cf4d1b8d876c7a79f234ee3cd87b36f003ed8e5cd6e6469fe127b823ffbd2ab"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice15.txt",
+      "bytes": 858,
+      "sha256": "0198a2f2e2a9fdec5f27dcb83b9d1ae06f1148d33ebc00ac8c7d89d65058e45f"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice16.txt",
+      "bytes": 787,
+      "sha256": "18f7967cb29109e8495a8678649c336bb48550071f38ff62edaad964e1eb44e9"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice18.txt",
+      "bytes": 903,
+      "sha256": "3e10debe593cd61a23e3e3ce834f9db0595f18a6a6313ba967c52191bfcd6cf3"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice19.txt",
+      "bytes": 897,
+      "sha256": "3173a1cfb9df1c438f808b48fba701fba570498e45a9e7fbe998a03240f79abf"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810101459_male_korean_voice20.txt",
+      "bytes": 825,
+      "sha256": "7808b33aeac54da98d14155c9e6b2a0cc39c88c91c8854c1a408218dd959c76e"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810102425_male_Korean_voice05.txt",
+      "bytes": 994,
+      "sha256": "fd51ac68b0a4ae24f5b5ef8118076d6ac40fe576050c93d53cbe27333a92c3a5"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810102425_male_Korean_voice06.txt",
+      "bytes": 898,
+      "sha256": "4f2c0bcf8d3f2239dbe9d9dfc30ff6d8bc07daf49f3e247cfa3e00c5248dbc07"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810102425_male_Korean_voice07.txt",
+      "bytes": 919,
+      "sha256": "f1a381ea7bcd53f55a47a6d07b2c7cf74ce1b32a9088e1310b81052e484b2dfe"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810102425_male_Korean_voice09.txt",
+      "bytes": 1039,
+      "sha256": "e73fbe19bbb4240e90c7787c4f7a5f217447d39e23f53ddda05e9d0640a78565"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810102425_male_Korean_voice10.txt",
+      "bytes": 974,
+      "sha256": "b25b6e18e84b9c6c956296f1df06c7e8469d175cc97d25f000ef3f8cf9125716"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice1.txt",
+      "bytes": 875,
+      "sha256": "05c6d9877a1b595bd58a06171ba972eca5fa510421e69ab84f903777411591a0"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice10.txt",
+      "bytes": 955,
+      "sha256": "989ed4af9f0e2d4a46588e9ed88a1624445510bef97c52a07c70fed313934f35"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice2.txt",
+      "bytes": 766,
+      "sha256": "1f97c094c845445cdc0f0a50aa1600b1c2ac20dbd2ac1d5363f2980707f7bd34"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice3.txt",
+      "bytes": 880,
+      "sha256": "42b91ce22ac3f565ffe202e834c3ec015f8e1e1ff0cdc9d95f63cef96cfe06f5"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice4.txt",
+      "bytes": 780,
+      "sha256": "e6f6bbcc37afe23b0f0b5a3faafbafcb1b41e78f763c8dd44a47b00d70124b09"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice5.txt",
+      "bytes": 771,
+      "sha256": "90a8dbce1185e9b1621a1a20476d267b3f31cf3c404cd9016bdb6c67c93a74c0"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice6.txt",
+      "bytes": 837,
+      "sha256": "88bbf39365aab2533db709770b35b0cdfc7fb0c72a691e07d94bb235af33bfd1"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice7.txt",
+      "bytes": 841,
+      "sha256": "ed29ade5fb91b33342b03489ad490faaf0c318c4c561a482ddf17a710527a88b"
+    },
+    {
+      "path": "data/raw/text/ko/Male/810103090_male_korean_voice9.txt",
+      "bytes": 904,
+      "sha256": "d705de1ee8051d9816a03bf6255ee9c9cbef5d768adf6318c99eb30137c71577"
+    },
+    {
+      "path": "data/raw/text/ko/Male/9.txt",
+      "bytes": 814,
+      "sha256": "f9263eb79b8a441a5eea2e8627f58c7b1e5fda0a489b0c29e263882d9fa10ab0"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_001.txt",
+      "bytes": 324,
+      "sha256": "c294ce82ff4895592816aeb6c27494deac38fafab14ad5378290ec2940aa2535"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_002.txt",
+      "bytes": 334,
+      "sha256": "44327c01aa4affa68a8799dfd778942a304677a4ffdde7bd04ba9ec6b41c2d03"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_003.txt",
+      "bytes": 351,
+      "sha256": "e2d32b916c2d7552e5c2d7e96598440613a1cb61b1a71e49c709dee1be0b3dfe"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_004.txt",
+      "bytes": 353,
+      "sha256": "7e181bae5956ebcb477f05a538093cb9ae11daee031b919ede2fab2248a935dc"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_005.txt",
+      "bytes": 330,
+      "sha256": "7fd3f85b9283ad90839dc29abc0d0ca4071772487be9374188a338559dfe8d44"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_006.txt",
+      "bytes": 327,
+      "sha256": "51bcf0891721ccbdd5de3c74c299e227cf3a406465b70c9dc9f530514640ea7f"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_007.txt",
+      "bytes": 332,
+      "sha256": "f7876669abbcd2b02a01e848438327e4939e60a3f98e9f4c658e85070152c034"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_008.txt",
+      "bytes": 339,
+      "sha256": "cb116101c9327de7b160482838488ff2630d866181c314057a930a976a9f04b6"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_009.txt",
+      "bytes": 323,
+      "sha256": "f08c449092fb0c77b4924b6264deaf17c250bb245d06b275c3313e751e236147"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_010.txt",
+      "bytes": 340,
+      "sha256": "be6d616229d3f5373d93520f0e33caddb32a60f2efcbb9390d182a27b6212ea5"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_011.txt",
+      "bytes": 356,
+      "sha256": "ad54f49227a811b7653445a41422990f0ce5279adf17ef37c86b58df6949513f"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_012.txt",
+      "bytes": 336,
+      "sha256": "77cdb1b64251cc32793a034a978a2bcdd2f5bbb9a102a3d8545dd8822ba553d5"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_013.txt",
+      "bytes": 346,
+      "sha256": "8390dccea3d636ca689a7b63bc900c2672b8657a3227538df07e2b47586097aa"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_014.txt",
+      "bytes": 330,
+      "sha256": "94c2b6e42219fb1aa1b9566e3da4341e187f40d128974d4e19a09f672d8be751"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_015.txt",
+      "bytes": 324,
+      "sha256": "7b904a29d300990a67389fb6901fff450050b376eb5e8862ac796abe9e6a26d2"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_016.txt",
+      "bytes": 330,
+      "sha256": "536399c299a74513ee92b2a17442a4d070b6ba6f33d513b25fa155863d6c0604"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_017.txt",
+      "bytes": 318,
+      "sha256": "d2d9b5dbe77796672be6186e6f1d3232a0026151b151017df5889f347a3fc7ba"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_018.txt",
+      "bytes": 327,
+      "sha256": "03a9fd9000f6c5d46229ce3c4503687300a598605cb0eec559103c5db9754608"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_019.txt",
+      "bytes": 338,
+      "sha256": "14afca752ce4c8309449891357fc6d1519feb356fe9a0c7bcdb4cbf970f07908"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_020.txt",
+      "bytes": 347,
+      "sha256": "4b8c69da434f6f3d5a2b970409bbf18428c2b5d1b97f8d48df71f5d4302d47bd"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_021.txt",
+      "bytes": 325,
+      "sha256": "034b938f10371409dc972cac92fc9a4fe21f7f2ffe65848cd1480a8c3bec0eee"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_022.txt",
+      "bytes": 327,
+      "sha256": "99fe756c4509f59d5aa291d0f48e72c82166510e7226e678677a111513c3b6e1"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_023.txt",
+      "bytes": 333,
+      "sha256": "219062b9ff83edddac93c1dec33ba48a946d46dc0bd4b6f5475720044d4a64ca"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_024.txt",
+      "bytes": 342,
+      "sha256": "985dde44e7909ebaaa2370cbdcd53fb7b918e4854b13cd78cc5c0d2febecf616"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_025.txt",
+      "bytes": 327,
+      "sha256": "daab4504ee454841d92be3dc3023e94e8d0f56437c31cda8324488a28fa3442a"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_026.txt",
+      "bytes": 335,
+      "sha256": "049ed30c6dd9089838aa641ffbbd21aa3692c492147d2062ca2f382cde4e224f"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_027.txt",
+      "bytes": 327,
+      "sha256": "dfff6574955fdaa3143448c5b156164e6a9743d8fb4f19e7b6110b25c4a6e43d"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_028.txt",
+      "bytes": 327,
+      "sha256": "835207ad191474dd0a896f31be81524df02bdd71ae5b23740a73208788795984"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_029.txt",
+      "bytes": 341,
+      "sha256": "6346adf915a4dc03ec023e09596ac60745718a6858b331dfa76305bdb7016617"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_030.txt",
+      "bytes": 337,
+      "sha256": "8527812f41a4e11e5d65aec071952065700c68eae5451cc72a339f56adbcbf48"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_031.txt",
+      "bytes": 337,
+      "sha256": "50e5ef1ee1be0ed4149096afc6696ee8fd2dee92be0798d7071435e5d6296b44"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_032.txt",
+      "bytes": 343,
+      "sha256": "51567732195cd3ea83ec6922bb7f94f7875f51b0e27d4707eed44857103595f0"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_033.txt",
+      "bytes": 327,
+      "sha256": "ba5682736458b7ff92fa004300c6a5cd6de317dc2f930a09d8dc287b8ad62c4e"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_034.txt",
+      "bytes": 353,
+      "sha256": "58407cc20e236061c1ed6a35b44f1cbef1b7f35d0d637c534b120f56804d3ca2"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_035.txt",
+      "bytes": 324,
+      "sha256": "1712ff53df61394ec9dcde83ed0f6534e21bb31b32d8b3c0e1a0befb52ddf586"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_036.txt",
+      "bytes": 336,
+      "sha256": "cd9eb99e36892a87db733a4723b0b867808e421c5e5876b02e8c75daf4c57bb0"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_037.txt",
+      "bytes": 340,
+      "sha256": "d0d0fff66ab8b9174c8fb1d36b14a4435b17ea75e6f35724e6116ea025c9f278"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_038.txt",
+      "bytes": 319,
+      "sha256": "9008792b63e6e56a28228ca2faa25415a6b0479d6c5c323ceed400fa714f2b9e"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_039.txt",
+      "bytes": 327,
+      "sha256": "70aa9af09cc35dc8d52bbc092d3b6c0ba8264e4bc1141e77f4d00e3c4383c981"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_040.txt",
+      "bytes": 325,
+      "sha256": "eb2eb4c014d95d6280f4a9af9c3391d006d989e8c63033a5814cb5525bf8549a"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_041.txt",
+      "bytes": 326,
+      "sha256": "51af1e8a11463247d9fe567ae4efdf3fdd699e28825e2f92a3bc2a3d89c39679"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_042.txt",
+      "bytes": 353,
+      "sha256": "467fbfaea0e5c64d98c87fbef0f08df7200948f53a30646ca55f72674503f4a7"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_043.txt",
+      "bytes": 332,
+      "sha256": "87ce3e01cb0cdf5970a0a7dd06c5e284f3a61fe61d41389e818738fc4b933050"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_044.txt",
+      "bytes": 332,
+      "sha256": "6e17b90d5f5cd455d4e2b6abc8bdf7cf09a0e05b5dfc66ee11cf6f8571fbdaf8"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_045.txt",
+      "bytes": 325,
+      "sha256": "a6dc6571ccecc40e985ba5deda266d2b1a79eb03bd92c67e7db1ec6cfe98d2a4"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_046.txt",
+      "bytes": 334,
+      "sha256": "2f8bd044bbe70184a504d27783beb67e299b9627e88557b6dd14ba89412faf88"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_047.txt",
+      "bytes": 359,
+      "sha256": "5ed7ead92ffaea30c55467c120f428cc5d98f2aea78b3a5c184363ffa037d22e"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_048.txt",
+      "bytes": 325,
+      "sha256": "696b7eea53193f9fff114d88dbbf41f02a98b45e286c093145ae1e1d56375bb5"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_049.txt",
+      "bytes": 351,
+      "sha256": "c4b8dd1425a82924130a3696e095f5f260f1db0cbce4bd49e3ee9f7b890e3f63"
+    },
+    {
+      "path": "data/raw/text/po/Female/portuguese_050.txt",
+      "bytes": 327,
+      "sha256": "a03b123814145ebaf194159de25204de67ce9d9eb0865d35671286d96b092580"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_051.txt",
+      "bytes": 343,
+      "sha256": "55031036201b976d02dde84f05a904c80422176edcaf82a9308c1ba644252c7d"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_052.txt",
+      "bytes": 351,
+      "sha256": "974fbfdf53dba846496e3553274fb51cee05074efe1dff763621886a34e03ab3"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_053.txt",
+      "bytes": 330,
+      "sha256": "548b088e59e65d41105b870d9fe6bc603e5b2f969ccf3a2c8af284a0efac93ab"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_054.txt",
+      "bytes": 325,
+      "sha256": "60a79dd3f7d2193aca3fc2508b28e8b4ab4d933f19a7b3b2631811b9fdd8e346"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_055.txt",
+      "bytes": 322,
+      "sha256": "61ffd28df6ecd2673f67359e8abd7e6bcc948b9592164acb8753c429d02a8668"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_056.txt",
+      "bytes": 348,
+      "sha256": "4ba59e80f2aacf0f18179b7ad65a56425d97fea9206a15356c088d515cfff0e7"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_057.txt",
+      "bytes": 338,
+      "sha256": "f6f9b2a2b674f3f8bb5d70e56527167e237d2e6cd5e6ecc1ff0a46900dee6488"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_058.txt",
+      "bytes": 343,
+      "sha256": "72ee2e3385d183c468c4f880b9222fdaad2dd312b1e15aef52b49a9a2f2a72a9"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_059.txt",
+      "bytes": 343,
+      "sha256": "5ecb5133ad6f1ad05fc7216243fae95526548a20e1bf0655dd30653d23090dcf"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_060.txt",
+      "bytes": 328,
+      "sha256": "a7789945f0dde7506867377c1b652ae112d50b870491220f0e8ab881113376d5"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_061.txt",
+      "bytes": 326,
+      "sha256": "35acbceb424ce54b6365242b00644233843d9fa4094e64eaac0c8d7c9a2ea8ce"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_062.txt",
+      "bytes": 323,
+      "sha256": "c6b96dd4d66fd012a54233be2b81416b9e367d64403df1208e6d5b8dc9fcec0f"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_063.txt",
+      "bytes": 339,
+      "sha256": "272618d2096ed1ba20d14098a919d180493ca5aa7fde2f592a1fda17964cf5a3"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_064.txt",
+      "bytes": 342,
+      "sha256": "84502e9c36c16e74968b685b47f3eb3c1f2731c21323046c1b37d3e42e2f68bc"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_065.txt",
+      "bytes": 330,
+      "sha256": "2a09a497dd20825351cb742b14b684759325be632e9232b4f32c6ec3bf23c7c7"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_066.txt",
+      "bytes": 321,
+      "sha256": "920b2ce1cb840fcbcee428cd5690b841e9889d40a4202319398378d3807d0d75"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_067.txt",
+      "bytes": 324,
+      "sha256": "98b560ec82e0b3457c9dc9a4e50b9279007a8cf9dbe0489999e5478183918dcc"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_068.txt",
+      "bytes": 320,
+      "sha256": "433656e773ff30e04072e24607287995bb930a619fb480392b426e267b4aca26"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_069.txt",
+      "bytes": 345,
+      "sha256": "2c16345556e67179b798e994d06b1aec3c77f6d9fb2584c110e5634aa1fa5642"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_070.txt",
+      "bytes": 341,
+      "sha256": "3f4cd009072180a2ff75ea78ea01cf20184ca62f0f0aeaca9a3d772996dcd1ad"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_071.txt",
+      "bytes": 350,
+      "sha256": "24f22a539fd28a25a0b8aa2d939361335581ff5795305473b1b07841a45a618d"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_072.txt",
+      "bytes": 341,
+      "sha256": "e9eb5822bb3c00f4b2da0986583f22450c8953e2b76f4892d610a498c77dc5c6"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_073.txt",
+      "bytes": 342,
+      "sha256": "1897dfa4f430e005610df9514b9ac636bddf088a6abafbd20a63c6f9820d3dae"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_074.txt",
+      "bytes": 327,
+      "sha256": "9b6936f1f884cff1ba5347244c5f95c1bca335c924b7d4453274db5e7f66baeb"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_075.txt",
+      "bytes": 322,
+      "sha256": "933798ffa469bb1338a7983921d31601641a560e933668159bee0c27d3e1f01e"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_076.txt",
+      "bytes": 327,
+      "sha256": "28e55a7378f61280c6e6df044df67f5b7a38607a976e41feedc631efbf9f6609"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_077.txt",
+      "bytes": 333,
+      "sha256": "df1d4b3df4424680724a3ac57f074260dfdc1ed882e7a38ffe58d9ed6701dab2"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_078.txt",
+      "bytes": 324,
+      "sha256": "feb453f826180e0ff3daf1e1ac583bc6a05344de0582b4683aa64d79c40e81d4"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_079.txt",
+      "bytes": 343,
+      "sha256": "53df34badb225b947f91fdc4ec60889da0bd112ca55b26e7e956324aac8b9fff"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_080.txt",
+      "bytes": 321,
+      "sha256": "f9b8b33002d8dc59ee6f470026d25881e43680fd356d3691a73c737c8fd7d3d7"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_081.txt",
+      "bytes": 324,
+      "sha256": "fd7044622ffb2b277d36ae08318869d9299b5fe0cae1a0170f9f8cb0d209200d"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_082.txt",
+      "bytes": 322,
+      "sha256": "79cedc7e9c1f24532225867e33f23b03716fafa515023f249737f81d6e772417"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_083.txt",
+      "bytes": 331,
+      "sha256": "d195097fc7a5ae5efa568483a26737fa31de268c88ee9ee4d54de3cd370718c1"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_084.txt",
+      "bytes": 323,
+      "sha256": "c6446d3ea0ef1bccc1edf7d1d1d8b40f5c5a5df1e09235332b012ac9fb8a3552"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_085.txt",
+      "bytes": 341,
+      "sha256": "2883b36c3b8018d6498c7bbfdcc66693214d882ecfe3eb9a4c7f21f3b7afe1fa"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_086.txt",
+      "bytes": 337,
+      "sha256": "39e67fba385e81359f291ec8d8b480131d100e5d947f263d7763163675eed215"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_087.txt",
+      "bytes": 321,
+      "sha256": "daac17e3ba6a8a10e5fedefbf35e8a6f8a87c8f03ce31a2e1789fd35fce1858a"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_088.txt",
+      "bytes": 351,
+      "sha256": "78efca1c242f4a3fd304092ab8de3659233d34d71c3833edac25e5bf6ed064ef"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_089.txt",
+      "bytes": 338,
+      "sha256": "b2728e56983c0aaa87bc9947c5768563da04c7d4aaf91b8a6fbf8c829724f71f"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_090.txt",
+      "bytes": 340,
+      "sha256": "b348cac505b3fd109036f375df96dfd7efea7ce9d8c92766ad1be6b738cc04d4"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_091.txt",
+      "bytes": 327,
+      "sha256": "7405790fe105f838a15711722f697d56c552843e141251da11611dc6cab3e8b6"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_092.txt",
+      "bytes": 335,
+      "sha256": "50707dbc37238c64ecb3b7477c05d11cb726f71059adb8b47d39067cb7f53822"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_093.txt",
+      "bytes": 319,
+      "sha256": "b00ac5ff2f93de38adb65439b8c44e5700f87bd4602a767464d4b8e0b9713af7"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_094.txt",
+      "bytes": 343,
+      "sha256": "2f9a0fea3e1e8cf155037cd3a6d6dd6ad10f60daba5cf05421299476a8620d6b"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_095.txt",
+      "bytes": 340,
+      "sha256": "14db6ab33bf4c3d8a9e28b01981731469f5c3ace4e7ba90eb3b54da390656ce9"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_096.txt",
+      "bytes": 324,
+      "sha256": "7b6c4dd4a1a78bf6ec852203672671e7e66d6bca9b50066f06c9a10d6c5679ff"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_097.txt",
+      "bytes": 318,
+      "sha256": "5ce5dea2feffd0f7f62f2893d7a5f7fd94fd8dd9def57b7b12ebb66b8be63f51"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_098.txt",
+      "bytes": 326,
+      "sha256": "613610421e972383427bb67d926414daa8b6de7b121fcfd5a4b21e1c6a4eb4ca"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_099.txt",
+      "bytes": 323,
+      "sha256": "4aeacf24fc5894ab5f21d6324caf4c14e361253b59dd291ccab179a8af54e06a"
+    },
+    {
+      "path": "data/raw/text/po/Male/portuguese_100.txt",
+      "bytes": 322,
+      "sha256": "9feeb003a2084efae6f0e0ff4643bff4bb19de96f1a07ae55c9ea693ee07fb01"
+    },
+    {
+      "path": "Speech_Identification/clean data and data extraction/feature_extraction.ipynb",
+      "bytes": 10146,
+      "sha256": "13887d76e86aad5532e330b2242b68e5886a51b0c101e04b09331f3c04e88eab"
+    },
+    {
+      "path": "Speech_Identification/clean data and data extraction/features.csv",
+      "bytes": 1096743,
+      "sha256": "1b8af1d67e1bed7588d03ebed29b24695dcf2118171948a1ed7cbeb792441a32"
+    },
+    {
+      "path": "Speech_Identification/clean data and data extraction/metadata.csv",
+      "bytes": 47035,
+      "sha256": "3b50ecbbd9f5ec6901db47f726596485f987f8430d8421471b80e6e58bddb938"
+    },
+    {
+      "path": "Speech_Identification/clean data and data extraction/step1_clean_all.ps1",
+      "bytes": 1514,
+      "sha256": "2f7325e8ff12da3753fb8b78b723aa7b8e50f2c63cbeb5d79882e192aaaabfb8"
+    },
+    {
+      "path": "Speech_Identification/clean data and data extraction/step2_make_metadata.ps1",
+      "bytes": 663,
+      "sha256": "5207b1c4d35474cb0cb3507ccf264e8df038e75ae7cdccd5326706907259639c"
+    }
+  ]
+}

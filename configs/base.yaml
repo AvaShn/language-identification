@@ -1,0 +1,8 @@
+project:
+  seed: 42
+  test_size: 0.20
+  cv_folds: 3
+  n_jobs: 1
+  artifacts_dir: artifacts
+  reports_dir: reports
+

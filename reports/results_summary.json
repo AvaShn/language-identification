@@ -1,0 +1,86 @@
+{
+  "dataset_relationship": "independent; no row-level pairing",
+  "model_counts": {
+    "speech_classification": 4,
+    "speech_clustering": 4,
+    "text_classification": 4,
+    "text_clustering": 4
+  },
+  "speech": {
+    "rows": 720,
+    "classes": {
+      "de": 180,
+      "es": 180,
+      "it": 180,
+      "ko": 180
+    },
+    "numeric_predictors": 133,
+    "best_classifier": {
+      "best_model_key": "knn",
+      "best_family": "k-nearest neighbours",
+      "criterion": "highest group-aware training CV macro-F1; exact ties use predeclared registry order",
+      "test_data_used_for_selection": false,
+      "cv_macro_f1": 0.9662223341630408,
+      "inference_smoke_test": {
+        "status": "passed",
+        "prediction": "de",
+        "required_feature_count": 133
+      }
+    },
+    "best_classifier_heldout_metrics": {
+      "accuracy": 0.9932432432432432,
+      "macro_precision": 0.9891304347826086,
+      "macro_recall": 0.9940476190476191,
+      "macro_f1": 0.9914323962516733,
+      "weighted_precision": 0.9935370152761457,
+      "weighted_recall": 0.9932432432432432,
+      "weighted_f1": 0.993277614964362
+    },
+    "selected_clustering": {
+      "best_model_key": "agglomerative",
+      "best_family": "Agglomerative clustering",
+      "criterion": "highest label-free silhouette among valid results",
+      "labels_used_for_selection": false,
+      "interpretation_note": "ARI, NMI, and purity were computed only after fitting and were not selection inputs."
+    }
+  },
+  "text": {
+    "rows": 608,
+    "classes": {
+      "german": 104,
+      "italian": 106,
+      "japanese": 100,
+      "korean": 98,
+      "portuguese": 100,
+      "spanish": 100
+    },
+    "best_classifier": {
+      "best_model_key": "logistic_regression",
+      "best_family": "Logistic regression",
+      "criterion": "highest group-aware training CV macro-F1; exact ties use predeclared registry order",
+      "test_data_used_for_selection": false,
+      "cv_macro_f1": 0.9905917330255484,
+      "inference_smoke_test": {
+        "status": "passed",
+        "prediction": "german",
+        "input": "raw text"
+      }
+    },
+    "best_classifier_heldout_metrics": {
+      "accuracy": 0.995260663507109,
+      "macro_precision": 0.9949494949494949,
+      "macro_recall": 0.9944444444444445,
+      "macro_f1": 0.9946110386788353,
+      "weighted_precision": 0.9954042797644693,
+      "weighted_recall": 0.995260663507109,
+      "weighted_f1": 0.995256956073086
+    },
+    "selected_clustering": {
+      "best_model_key": "dbscan",
+      "best_family": "DBSCAN",
+      "criterion": "highest label-free silhouette among valid results",
+      "labels_used_for_selection": false,
+      "interpretation_note": "ARI, NMI, and purity were computed only after fitting and were not selection inputs."
+    }
+  }
+}

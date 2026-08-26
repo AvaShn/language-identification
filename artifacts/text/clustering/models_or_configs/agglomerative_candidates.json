@@ -1,0 +1,72 @@
+[
+  {
+    "n_clusters": 2,
+    "linkage": "ward",
+    "silhouette": 0.20304376968922708
+  },
+  {
+    "n_clusters": 3,
+    "linkage": "ward",
+    "silhouette": 0.2336440641934523
+  },
+  {
+    "n_clusters": 4,
+    "linkage": "ward",
+    "silhouette": 0.29104116354978027
+  },
+  {
+    "n_clusters": 5,
+    "linkage": "ward",
+    "silhouette": 0.31395238244217855
+  },
+  {
+    "n_clusters": 6,
+    "linkage": "ward",
+    "silhouette": 0.3510841965943414
+  },
+  {
+    "n_clusters": 7,
+    "linkage": "ward",
+    "silhouette": 0.32955382420309376
+  },
+  {
+    "n_clusters": 8,
+    "linkage": "ward",
+    "silhouette": 0.3216028870528619
+  },
+  {
+    "n_clusters": 2,
+    "linkage": "average",
+    "silhouette": 0.17215190167967687
+  },
+  {
+    "n_clusters": 3,
+    "linkage": "average",
+    "silhouette": 0.26033383924119124
+  },
+  {
+    "n_clusters": 4,
+    "linkage": "average",
+    "silhouette": 0.29104116354978027
+  },
+  {
+    "n_clusters": 5,
+    "linkage": "average",
+    "silhouette": 0.3148013939427104
+  },
+  {
+    "n_clusters": 6,
+    "linkage": "average",
+    "silhouette": 0.28599058794179794
+  },
+  {
+    "n_clusters": 7,
+    "linkage": "average",
+    "silhouette": 0.27773507713082507
+  },
+  {
+    "n_clusters": 8,
+    "linkage": "average",
+    "silhouette": 0.2762329652095484
+  }
+]

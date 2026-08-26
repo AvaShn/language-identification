@@ -1,0 +1,66 @@
+[
+  {
+    "eps": 6.888667107237424,
+    "min_samples": 5,
+    "quantile": 0.7,
+    "silhouette": 0.296263209249768,
+    "noise_rate": 0.18055555555555555,
+    "cluster_count": 13
+  },
+  {
+    "eps": 7.535334362481592,
+    "min_samples": 5,
+    "quantile": 0.8,
+    "silhouette": 0.22529061864885094,
+    "noise_rate": 0.1111111111111111,
+    "cluster_count": 12
+  },
+  {
+    "eps": 8.497804668247882,
+    "min_samples": 5,
+    "quantile": 0.9,
+    "silhouette": 0.11966084913540374,
+    "noise_rate": 0.043055555555555555,
+    "cluster_count": 4
+  },
+  {
+    "eps": 9.104968514041351,
+    "min_samples": 5,
+    "quantile": 0.95,
+    "silhouette": 0.15814656014016804,
+    "noise_rate": 0.018055555555555554,
+    "cluster_count": 3
+  },
+  {
+    "eps": 7.70834598669963,
+    "min_samples": 10,
+    "quantile": 0.7,
+    "silhouette": 0.17648248458657495,
+    "noise_rate": 0.14583333333333334,
+    "cluster_count": 6
+  },
+  {
+    "eps": 8.450230341681586,
+    "min_samples": 10,
+    "quantile": 0.8,
+    "silhouette": 0.10618813165757417,
+    "noise_rate": 0.07222222222222222,
+    "cluster_count": 4
+  },
+  {
+    "eps": 9.383782396504683,
+    "min_samples": 10,
+    "quantile": 0.9,
+    "silhouette": 0.13879854829107774,
+    "noise_rate": 0.027777777777777776,
+    "cluster_count": 3
+  },
+  {
+    "eps": 10.167252769116299,
+    "min_samples": 10,
+    "quantile": 0.95,
+    "silhouette": null,
+    "noise_rate": 0.019444444444444445,
+    "cluster_count": 1
+  }
+]

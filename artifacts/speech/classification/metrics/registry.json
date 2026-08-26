@@ -1,0 +1,83 @@
+{
+  "logistic_regression": {
+    "family": "Logistic regression",
+    "scaled": true,
+    "rationale": "Linear probabilistic baseline with standardized dense predictors.",
+    "parameter_grid": {
+      "classifier__C": [
+        0.1,
+        1.0,
+        10.0
+      ],
+      "classifier__class_weight": [
+        null,
+        "balanced"
+      ]
+    },
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "rbf_svm": {
+    "family": "Support vector machine",
+    "scaled": true,
+    "rationale": "Nonlinear maximum-margin model for a moderate dense feature table.",
+    "parameter_grid": {
+      "classifier__C": [
+        1.0,
+        10.0
+      ],
+      "classifier__gamma": [
+        "scale",
+        0.01
+      ],
+      "classifier__class_weight": [
+        null,
+        "balanced"
+      ]
+    },
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "random_forest": {
+    "family": "Random forest",
+    "scaled": false,
+    "rationale": "Tree ensemble captures nonlinear feature interactions without scaling.",
+    "parameter_grid": {
+      "classifier__n_estimators": [
+        200
+      ],
+      "classifier__max_depth": [
+        null,
+        12
+      ],
+      "classifier__min_samples_leaf": [
+        1,
+        2
+      ],
+      "classifier__class_weight": [
+        null,
+        "balanced"
+      ]
+    },
+    "selection_metric": "group-aware CV macro-F1"
+  },
+  "knn": {
+    "family": "k-nearest neighbours",
+    "scaled": true,
+    "rationale": "Instance-based geometric model provides an algorithmically distinct contrast.",
+    "parameter_grid": {
+      "classifier__n_neighbors": [
+        3,
+        7,
+        11
+      ],
+      "classifier__weights": [
+        "uniform",
+        "distance"
+      ],
+      "classifier__p": [
+        1,
+        2
+      ]
+    },
+    "selection_metric": "group-aware CV macro-F1"
+  }
+}

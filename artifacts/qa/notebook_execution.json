@@ -1,0 +1,9 @@
+{
+  "notebooks/speech/01_Classification.ipynb": "executed",
+  "notebooks/speech/02_Clustering.ipynb": "executed",
+  "notebooks/speech/03_Evaluation_and_Error_Analysis.ipynb": "executed",
+  "notebooks/text/01_Data_Cleaning_and_Feature_Extraction.ipynb": "executed",
+  "notebooks/text/02_Classification.ipynb": "executed",
+  "notebooks/text/03_Clustering.ipynb": "executed",
+  "notebooks/text/04_Evaluation_and_Error_Analysis.ipynb": "executed"
+}

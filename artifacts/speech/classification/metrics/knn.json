@@ -1,0 +1,31 @@
+{
+  "model_key": "knn",
+  "family": "k-nearest neighbours",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9662223341630408,
+  "cv_macro_f1_std": 0.044360153119158904,
+  "best_parameters": {
+    "classifier__n_neighbors": 3,
+    "classifier__p": 1,
+    "classifier__weights": "uniform"
+  },
+  "fit_search_seconds": 2.537512800001423,
+  "heldout_predict_seconds": 0.012337100000877399,
+  "heldout_rows": 148,
+  "heldout_metrics": {
+    "accuracy": 0.9932432432432432,
+    "macro_precision": 0.9891304347826086,
+    "macro_recall": 0.9940476190476191,
+    "macro_f1": 0.9914323962516733,
+    "weighted_precision": 0.9935370152761457,
+    "weighted_recall": 0.9932432432432432,
+    "weighted_f1": 0.993277614964362
+  },
+  "common_confusions": [
+    {
+      "true": "de",
+      "predicted": "ko",
+      "count": 1
+    }
+  ]
+}

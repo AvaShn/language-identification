@@ -1,0 +1,44 @@
+[
+  {
+    "n_components": 2,
+    "covariance_type": "diag",
+    "bic": -109823.5499344351,
+    "silhouette": 0.20304376968922708
+  },
+  {
+    "n_components": 3,
+    "covariance_type": "diag",
+    "bic": -118303.01621231489,
+    "silhouette": 0.2336440641934523
+  },
+  {
+    "n_components": 4,
+    "covariance_type": "diag",
+    "bic": -138435.16432512878,
+    "silhouette": 0.29104116354978027
+  },
+  {
+    "n_components": 5,
+    "covariance_type": "diag",
+    "bic": -141105.47674596796,
+    "silhouette": 0.3129393499406218
+  },
+  {
+    "n_components": 6,
+    "covariance_type": "diag",
+    "bic": -144864.78322407833,
+    "silhouette": 0.3510841965943414
+  },
+  {
+    "n_components": 7,
+    "covariance_type": "diag",
+    "bic": -145029.0801644803,
+    "silhouette": 0.31351737328312473
+  },
+  {
+    "n_components": 8,
+    "covariance_type": "diag",
+    "bic": -145367.87837308875,
+    "silhouette": 0.2598984386998283
+  }
+]

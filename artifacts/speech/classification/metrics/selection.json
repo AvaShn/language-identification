@@ -1,0 +1,12 @@
+{
+  "best_model_key": "knn",
+  "best_family": "k-nearest neighbours",
+  "criterion": "highest group-aware training CV macro-F1; exact ties use predeclared registry order",
+  "test_data_used_for_selection": false,
+  "cv_macro_f1": 0.9662223341630408,
+  "inference_smoke_test": {
+    "status": "passed",
+    "prediction": "de",
+    "required_feature_count": 133
+  }
+}

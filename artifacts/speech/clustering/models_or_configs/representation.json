@@ -1,0 +1,5 @@
+{
+  "input_features": 133,
+  "pca_components": 30,
+  "labels_used_in_fit": false
+}

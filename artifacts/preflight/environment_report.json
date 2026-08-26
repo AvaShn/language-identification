@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "os": {
+    "platform": "Windows-11-10.0.26100-SP0",
+    "system": "Windows",
+    "release": "11"
+  },
+  "python": {
+    "version": "3.12.13 (main, Aug  7 2026, 02:26:41) [MSC v.1944 64 bit (AMD64)]",
+    "executable": "C:\\Users\\Ava\\Desktop\\Language_Identification\\.venv\\Scripts\\python.exe",
+    "prefix": "C:\\Users\\Ava\\Desktop\\Language_Identification\\.venv"
+  },
+  "poetry_environment": {
+    "in_project_virtualenv": true,
+    "virtual_env_variable": "C:\\Users\\Ava\\Desktop\\Language_Identification\\.venv",
+    "lockfile_exists": true
+  },
+  "compute": {
+    "logical_cpu_count": 8,
+    "physical_cpu_count": 4,
+    "ram_gib": 7.94,
+    "gpu_required": false,
+    "nvidia_smi_available": false
+  },
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.3",
+    "PyYAML": "6.0.3",
+    "joblib": "1.5.3",
+    "nbclient": "0.11.0",
+    "nbformat": "5.11.1",
+    "ipykernel": "7.3.0",
+    "pytest": "9.1.1"
+  },
+  "speech": {
+    "feature_file": "Speech_Identification/clean data and data extraction/features.csv",
+    "metadata_file": "Speech_Identification/clean data and data extraction/metadata.csv",
+    "rows": 720,
+    "numeric_predictors": 133,
+    "classes": [
+      "de",
+      "es",
+      "it",
+      "ko"
+    ],
+    "read_only_boundary": true
+  },
+  "text": {
+    "source": "data/raw/text",
+    "rows_after_validation": 608,
+    "classes": [
+      "german",
+      "italian",
+      "japanese",
+      "korean",
+      "portuguese",
+      "spanish"
+    ],
+    "independent_from_speech": true
+  },
+  "outputs_writable": true,
+  "source_integrity": {
+    "unchanged": true,
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "system_dependencies": {
+    "required": [],
+    "not_required": [
+      "CUDA/GPU",
+      "FFmpeg",
+      "Conda",
+      "paid/cloud APIs"
+    ]
+  }
+}

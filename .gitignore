@@ -1,0 +1,9 @@
+.venv/
+.tools/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+artifacts/**/models/*.joblib
+artifacts/**/models_or_configs/*.joblib
+

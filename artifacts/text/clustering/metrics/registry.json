@@ -1,0 +1,22 @@
+{
+  "kmeans": {
+    "family": "K-Means",
+    "representation": "unlabeled character/word TF-IDF + TruncatedSVD + normalization",
+    "selection": "label-free silhouette"
+  },
+  "dbscan": {
+    "family": "DBSCAN",
+    "representation": "unlabeled character/word TF-IDF + TruncatedSVD + normalization",
+    "selection": "label-free silhouette"
+  },
+  "agglomerative": {
+    "family": "Agglomerative clustering",
+    "representation": "unlabeled character/word TF-IDF + TruncatedSVD + normalization",
+    "selection": "label-free silhouette"
+  },
+  "gaussian_mixture": {
+    "family": "Gaussian Mixture",
+    "representation": "unlabeled character/word TF-IDF + TruncatedSVD + normalization",
+    "selection": "label-free silhouette"
+  }
+}

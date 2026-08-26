@@ -1,0 +1,583 @@
+{
+  "status": "passed",
+  "passed": 96,
+  "total": 96,
+  "checks": [
+    {
+      "id": "A1",
+      "criterion": "pyproject.toml exists and is valid",
+      "status": "passed",
+      "evidence": "pyproject.toml"
+    },
+    {
+      "id": "A2",
+      "criterion": "poetry.lock exists",
+      "status": "passed",
+      "evidence": "poetry.lock"
+    },
+    {
+      "id": "A3",
+      "criterion": "Poetry installation succeeds",
+      "status": "passed",
+      "evidence": "preflight executed inside project .venv"
+    },
+    {
+      "id": "A4",
+      "criterion": "Core commands run through Poetry",
+      "status": "passed",
+      "evidence": "run_all executed with Poetry environment"
+    },
+    {
+      "id": "A5",
+      "criterion": "CPU-only baseline supported",
+      "status": "passed",
+      "evidence": "GPU required=false"
+    },
+    {
+      "id": "A6",
+      "criterion": "No paid/cloud API required",
+      "status": "passed",
+      "evidence": "required system dependencies empty"
+    },
+    {
+      "id": "A7",
+      "criterion": "Environment preflight actionable",
+      "status": "passed",
+      "evidence": "environment_report.json"
+    },
+    {
+      "id": "A8",
+      "criterion": "No hard-coded absolute paths",
+      "status": "passed",
+      "evidence": "findings=[]"
+    },
+    {
+      "id": "B1",
+      "criterion": "Speech feature path configurable/resolved",
+      "status": "passed",
+      "evidence": "configs/speech.yaml and audit"
+    },
+    {
+      "id": "B2",
+      "criterion": "Supplied feature table loads",
+      "status": "passed",
+      "evidence": "rows=720"
+    },
+    {
+      "id": "B3",
+      "criterion": "Metadata aligned by stable identifier",
+      "status": "passed",
+      "evidence": "aligned by filepath and equality-checked"
+    },
+    {
+      "id": "B4",
+      "criterion": "Supplied speech source not overwritten",
+      "status": "passed",
+      "evidence": "source_integrity.json"
+    },
+    {
+      "id": "B5",
+      "criterion": "Speech pipeline does not run feature extraction",
+      "status": "passed",
+      "evidence": "run_all.py imports only feature-table modeling stages"
+    },
+    {
+      "id": "B6",
+      "criterion": "Speech audit generated",
+      "status": "passed",
+      "evidence": "speech_audit.json"
+    },
+    {
+      "id": "B7",
+      "criterion": "Target/IDs/metadata/predictors separated",
+      "status": "passed",
+      "evidence": "speech audit predictor inventory"
+    },
+    {
+      "id": "B8",
+      "criterion": "Target leakage controls documented",
+      "status": "passed",
+      "evidence": "target, filepath, and gender excluded from predictors; metadata aligned by stable filepath rather than row order; speaker/source groups kept disjoint in holdout and CV; preprocessing fitted inside supervised training pipelines"
+    },
+    {
+      "id": "B9",
+      "criterion": "Reliable speech grouping used",
+      "status": "passed",
+      "evidence": "regex '^(\\\\d{9})_' on filepath basename; 720/720 rows matched, unmatched paths treated as unique"
+    },
+    {
+      "id": "C1",
+      "criterion": "Exactly four speech classifier families",
+      "status": "passed",
+      "evidence": "['logistic_regression', 'rbf_svm', 'random_forest', 'knn']"
+    },
+    {
+      "id": "C2",
+      "criterion": "All speech classifiers trained/evaluated",
+      "status": "passed",
+      "evidence": "{'metrics': True, 'reports': True, 'confusions': True, 'predictions': True, 'models': True}"
+    },
+    {
+      "id": "C3",
+      "criterion": "Hyperparameter variants not counted as families",
+      "status": "passed",
+      "evidence": "four distinct registry family labels"
+    },
+    {
+      "id": "C4",
+      "criterion": "Speech preprocessing leakage-safe",
+      "status": "passed",
+      "evidence": "imputation/scaling live inside GridSearchCV pipelines"
+    },
+    {
+      "id": "C5",
+      "criterion": "Final speech test excluded from selection",
+      "status": "passed",
+      "evidence": "highest group-aware training CV macro-F1; exact ties use predeclared registry order"
+    },
+    {
+      "id": "C6",
+      "criterion": "Speech CV results exist",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "C7",
+      "criterion": "Speech held-out metrics for every model",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "C8",
+      "criterion": "Speech classification reports exist",
+      "status": "passed",
+      "evidence": "four classification report CSV files"
+    },
+    {
+      "id": "C9",
+      "criterion": "Speech confusion matrices exist",
+      "status": "passed",
+      "evidence": "four PNG files"
+    },
+    {
+      "id": "C10",
+      "criterion": "Speech comparison table exists",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "C11",
+      "criterion": "Speech best-model rationale documented",
+      "status": "passed",
+      "evidence": "selection.json"
+    },
+    {
+      "id": "C12",
+      "criterion": "Best speech bundle saved/loadable",
+      "status": "passed",
+      "evidence": "best_classifier.joblib"
+    },
+    {
+      "id": "C13",
+      "criterion": "Speech feature-row inference smoke passes",
+      "status": "passed",
+      "evidence": "selection.json"
+    },
+    {
+      "id": "D1",
+      "criterion": "Exactly four speech cluster families",
+      "status": "passed",
+      "evidence": "['kmeans', 'agglomerative', 'gaussian_mixture', 'dbscan']"
+    },
+    {
+      "id": "D2",
+      "criterion": "All speech clusterers fitted/evaluated",
+      "status": "passed",
+      "evidence": "{'metrics': True, 'assignments': True, 'sizes': True, 'composition': True, 'plots': True}"
+    },
+    {
+      "id": "D3",
+      "criterion": "Speech clustering fit excludes labels",
+      "status": "passed",
+      "evidence": "four metrics JSON declarations"
+    },
+    {
+      "id": "D4",
+      "criterion": "Speech internal metrics computed where valid",
+      "status": "passed",
+      "evidence": "metrics JSON"
+    },
+    {
+      "id": "D5",
+      "criterion": "Speech ARI/NMI post-fit",
+      "status": "passed",
+      "evidence": "metrics JSON"
+    },
+    {
+      "id": "D6",
+      "criterion": "Speech cluster sizes/compositions saved",
+      "status": "passed",
+      "evidence": "assignment summary CSV files"
+    },
+    {
+      "id": "D7",
+      "criterion": "Speech noise handling documented",
+      "status": "passed",
+      "evidence": "metrics JSON"
+    },
+    {
+      "id": "D8",
+      "criterion": "Speech cluster comparison exists",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "D9",
+      "criterion": "Speech cluster visualizations exist",
+      "status": "passed",
+      "evidence": "four PNG files"
+    },
+    {
+      "id": "D10",
+      "criterion": "Speech cluster interpretation rationale",
+      "status": "passed",
+      "evidence": "selection.json"
+    },
+    {
+      "id": "E1",
+      "criterion": "Text path independent of speech",
+      "status": "passed",
+      "evidence": "independent directory corpus; no speech row/sample pairing assumed"
+    },
+    {
+      "id": "E2",
+      "criterion": "No speech/text row pairing assumed",
+      "status": "passed",
+      "evidence": "independent directory corpus; no speech row/sample pairing assumed"
+    },
+    {
+      "id": "E3",
+      "criterion": "Text schema/format discovered",
+      "status": "passed",
+      "evidence": "UTF-8 directory-per-language .txt files"
+    },
+    {
+      "id": "E4",
+      "criterion": "Text label/content fields resolved",
+      "status": "passed",
+      "evidence": "complete file contents / first relative directory"
+    },
+    {
+      "id": "E5",
+      "criterion": "Encoding/null/empty/duplicate checks",
+      "status": "passed",
+      "evidence": "text_audit.json"
+    },
+    {
+      "id": "E6",
+      "criterion": "Cleaning multilingual-safe",
+      "status": "passed",
+      "evidence": "collapse consecutive whitespace (including line breaks and tabs) to one space; trim surrounding whitespace; preserve case, punctuation, digits, scripts, and diacritics; no stemming, lemmatization, transliteration, or English-only tokenization"
+    },
+    {
+      "id": "E7",
+      "criterion": "Raw text source not overwritten",
+      "status": "passed",
+      "evidence": "source_integrity.json"
+    },
+    {
+      "id": "E8",
+      "criterion": "Leakage-aware text split",
+      "status": "passed",
+      "evidence": "text holdout split audit"
+    },
+    {
+      "id": "E9",
+      "criterion": "Supervised vectorizer fitted on training only",
+      "status": "passed",
+      "evidence": "feature_statistics.json"
+    },
+    {
+      "id": "E10",
+      "criterion": "Text feature statistics saved",
+      "status": "passed",
+      "evidence": "feature_statistics.json"
+    },
+    {
+      "id": "E11",
+      "criterion": "Text feature pipeline persisted/reloadable",
+      "status": "passed",
+      "evidence": "training_vectorizer.joblib"
+    },
+    {
+      "id": "F1",
+      "criterion": "Exactly four text classifier families",
+      "status": "passed",
+      "evidence": "['knn', 'decision_tree', 'logistic_regression', 'multinomial_nb']"
+    },
+    {
+      "id": "F2",
+      "criterion": "All text classifiers trained/evaluated",
+      "status": "passed",
+      "evidence": "{'metrics': True, 'reports': True, 'confusions': True, 'predictions': True, 'models': True}"
+    },
+    {
+      "id": "F3",
+      "criterion": "Text models compatible with representation",
+      "status": "passed",
+      "evidence": "all four executed successfully on TF-IDF"
+    },
+    {
+      "id": "F4",
+      "criterion": "Text CV and held-out results exist",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "F5",
+      "criterion": "Text reports/confusions exist",
+      "status": "passed",
+      "evidence": "four CSV and four PNG files"
+    },
+    {
+      "id": "F6",
+      "criterion": "Text comparison table exists",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "F7",
+      "criterion": "Best text bundle includes preprocessing/features",
+      "status": "passed",
+      "evidence": "best_classifier.joblib contains full pipeline"
+    },
+    {
+      "id": "F8",
+      "criterion": "Raw-text inference smoke passes",
+      "status": "passed",
+      "evidence": "selection.json"
+    },
+    {
+      "id": "G1",
+      "criterion": "Exactly four requested text cluster families",
+      "status": "passed",
+      "evidence": "['kmeans', 'dbscan', 'agglomerative', 'gaussian_mixture']"
+    },
+    {
+      "id": "G2",
+      "criterion": "All text clusterers fitted/evaluated",
+      "status": "passed",
+      "evidence": "{'metrics': True, 'assignments': True, 'sizes': True, 'composition': True, 'plots': True}"
+    },
+    {
+      "id": "G3",
+      "criterion": "Text labels excluded from fit/reduction",
+      "status": "passed",
+      "evidence": "three metrics JSON declarations"
+    },
+    {
+      "id": "G4",
+      "criterion": "Sparse/dimensionality handled",
+      "status": "passed",
+      "evidence": "multilingual-safe cleaning + character/word TF-IDF FeatureUnion + unlabeled TruncatedSVD + L2 normalization"
+    },
+    {
+      "id": "G5",
+      "criterion": "Text internal/external metrics saved",
+      "status": "passed",
+      "evidence": "metrics JSON"
+    },
+    {
+      "id": "G6",
+      "criterion": "Text assignments/sizes/compositions saved",
+      "status": "passed",
+      "evidence": "assignment CSV files"
+    },
+    {
+      "id": "G7",
+      "criterion": "Text clustering visualizations exist",
+      "status": "passed",
+      "evidence": "three PNG files"
+    },
+    {
+      "id": "G8",
+      "criterion": "Text cluster comparison exists",
+      "status": "passed",
+      "evidence": "comparison.csv"
+    },
+    {
+      "id": "H1",
+      "criterion": "Required notebook exists and is executed: notebooks/speech/01_Classification.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/speech/01_Classification.ipynb"
+    },
+    {
+      "id": "H2",
+      "criterion": "Required notebook exists and is executed: notebooks/speech/02_Clustering.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/speech/02_Clustering.ipynb"
+    },
+    {
+      "id": "H3",
+      "criterion": "Required notebook exists and is executed: notebooks/speech/03_Evaluation_and_Error_Analysis.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/speech/03_Evaluation_and_Error_Analysis.ipynb"
+    },
+    {
+      "id": "H4",
+      "criterion": "Required notebook exists and is executed: notebooks/text/01_Data_Cleaning_and_Feature_Extraction.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/text/01_Data_Cleaning_and_Feature_Extraction.ipynb"
+    },
+    {
+      "id": "H5",
+      "criterion": "Required notebook exists and is executed: notebooks/text/02_Classification.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/text/02_Classification.ipynb"
+    },
+    {
+      "id": "H6",
+      "criterion": "Required notebook exists and is executed: notebooks/text/03_Clustering.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/text/03_Clustering.ipynb"
+    },
+    {
+      "id": "H7",
+      "criterion": "Required notebook exists and is executed: notebooks/text/04_Evaluation_and_Error_Analysis.ipynb",
+      "status": "passed",
+      "evidence": "notebooks/text/04_Evaluation_and_Error_Analysis.ipynb"
+    },
+    {
+      "id": "H8",
+      "criterion": "No replacement speech feature-extraction notebook",
+      "status": "passed",
+      "evidence": "speech notebooks begin at classification"
+    },
+    {
+      "id": "H9",
+      "criterion": "Notebooks use reusable source logic",
+      "status": "passed",
+      "evidence": "imports present in every notebook"
+    },
+    {
+      "id": "H10",
+      "criterion": "Notebooks require no hidden state",
+      "status": "passed",
+      "evidence": "clean-kernel nbclient execution passed"
+    },
+    {
+      "id": "I1",
+      "criterion": "Unit tests cover schema/split/features/registry/inference",
+      "status": "passed",
+      "evidence": "tests directory"
+    },
+    {
+      "id": "I2",
+      "criterion": "Reduced end-to-end smoke test exists",
+      "status": "passed",
+      "evidence": "test_smoke_pipeline.py"
+    },
+    {
+      "id": "I3",
+      "criterion": "poetry run pytest passes",
+      "status": "passed",
+      "evidence": "{'status': 'passed', 'return_code': 0, 'command': 'python -m pytest (inside Poetry environment)', 'stdout': '============================= test session starts =============================\\nplatform win32 -- Python 3.12.13, pytest-9.1.1, pluggy-1.6.0\\nrootdir: C:\\\\Users\\\\Ava\\\\Desktop\\\\Language_Identification\\nconfigfile: pyproject.toml\\ntestpaths: tests\\ncollected 11 items\\n\\ntests\\\\test_config.py ..                                                  [ 18%]\\ntests\\\\test_inference.py ..                                               [ 36%]\\ntests\\\\test_model_registry.py .                                           [ 45%]\\ntests\\\\test_smoke_pipeline.py .                                           [ 54%]\\ntests\\\\test_speech_data.py .                                              [ 63%]\\ntests\\\\test_splitting.py .                                                [ 72%]\\ntests\\\\test_text_data.py ..                                               [ 90%]\\ntests\\\\test_text_features.py .                                            [100%]\\n\\n============================= 11 passed in 2.33s ==============================\\n', 'stderr': ''}"
+    },
+    {
+      "id": "I4",
+      "criterion": "Config/path errors actionable",
+      "status": "passed",
+      "evidence": "loaders raise contextual FileNotFoundError/ValueError messages"
+    },
+    {
+      "id": "I5",
+      "criterion": "Metrics finite or explicitly unavailable",
+      "status": "passed",
+      "evidence": "cluster metrics JSON schema and finite classifier tables"
+    },
+    {
+      "id": "J1",
+      "criterion": "Speech count audit is 4+4",
+      "status": "passed",
+      "evidence": "model_count_audit.json"
+    },
+    {
+      "id": "J2",
+      "criterion": "Text count audit is 4 classifiers + 4 requested clusterers",
+      "status": "passed",
+      "evidence": "model_count_audit.json"
+    },
+    {
+      "id": "J3",
+      "criterion": "Professional README uses generated results",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J4",
+      "criterion": "README explains architecture and algorithms",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J5",
+      "criterion": "README contains dataset description",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J6",
+      "criterion": "README contains classification and clustering tables",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J7",
+      "criterion": "README includes limitations and future work",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J8",
+      "criterion": "README states independent unpaired datasets",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "J9",
+      "criterion": "Machine-readable summary exists",
+      "status": "passed",
+      "evidence": "results_summary.json"
+    },
+    {
+      "id": "J10",
+      "criterion": "README contains exact rerun commands",
+      "status": "passed",
+      "evidence": "README.md"
+    },
+    {
+      "id": "K1",
+      "criterion": "No required placeholder/TODO",
+      "status": "passed",
+      "evidence": "source/scripts scan"
+    },
+    {
+      "id": "K2",
+      "criterion": "No invented metrics",
+      "status": "passed",
+      "evidence": "report reads generated JSON/CSV only"
+    },
+    {
+      "id": "K3",
+      "criterion": "Every required model has executed artifact",
+      "status": "passed",
+      "evidence": "16 result JSON files"
+    },
+    {
+      "id": "K4",
+      "criterion": "Final self-review found no blockers",
+      "status": "passed",
+      "evidence": "acceptance audit"
+    }
+  ]
+}

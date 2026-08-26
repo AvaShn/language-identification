@@ -1,0 +1,60 @@
+{
+  "source_format": "UTF-8 directory-per-language .txt files",
+  "source_file_count": 608,
+  "decoded_file_count": 608,
+  "text_field": "complete file contents",
+  "label_field": "first relative directory",
+  "sample_id_field": "relative path",
+  "optional_metadata": [
+    "second relative directory (gender)"
+  ],
+  "encoding": "utf-8",
+  "empty_removed": 0,
+  "exact_duplicate_rows_removed": 0,
+  "clean_rows": 608,
+  "dataset_independence": "independent directory corpus; no speech row/sample pairing assumed",
+  "class_distribution": {
+    "german": 104,
+    "italian": 106,
+    "japanese": 100,
+    "korean": 98,
+    "portuguese": 100,
+    "spanish": 100
+  },
+  "gender_distribution": {
+    "german/Female": 49,
+    "german/male": 55,
+    "italian/Female": 54,
+    "italian/Male": 52,
+    "japanese/Female": 50,
+    "japanese/Male": 50,
+    "korean/Female": 48,
+    "korean/Male": 50,
+    "portuguese/Female": 50,
+    "portuguese/Male": 50,
+    "spanish/Female": 47,
+    "spanish/Male": 53
+  },
+  "normalization_changed_rows": 14,
+  "replacement_character_count": 0,
+  "text_length_characters": {
+    "min": 159,
+    "median": 315.0,
+    "max": 423
+  },
+  "duplicate_policy": "after whitespace normalization, keep lexicographically first path for exact duplicate text",
+  "cleaning": [
+    "collapse consecutive whitespace (including line breaks and tabs) to one space",
+    "trim surrounding whitespace",
+    "preserve case, punctuation, digits, scripts, and diacritics",
+    "no stemming, lemmatization, transliteration, or English-only tokenization"
+  ],
+  "group_rule": "language-prefixed regex '^(\\\\d{9})_' on filename; unmatched files receive unique path groups",
+  "group_count": 284,
+  "repeated_group_count": 44,
+  "split_strategy": "StratifiedGroupKFold first fold (3 folds)",
+  "train_rows": 397,
+  "test_rows": 211,
+  "group_overlap_count": 0,
+  "normalized_text_overlap_count": 0
+}

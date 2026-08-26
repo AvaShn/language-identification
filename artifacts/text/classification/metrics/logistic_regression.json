@@ -1,0 +1,38 @@
+{
+  "model_key": "logistic_regression",
+  "family": "Logistic regression",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9905917330255484,
+  "cv_macro_f1_std": 0.004983840630233799,
+  "best_parameters": {
+    "classifier__C": 100
+  },
+  "fit_search_seconds": 14.959893200000806,
+  "heldout_predict_seconds": 0.09107339999900432,
+  "heldout_rows": 211,
+  "training_metrics": {
+    "accuracy": 0.9924433249370277,
+    "macro_precision": 0.9929577464788731,
+    "macro_recall": 0.9927505330490405,
+    "macro_f1": 0.9927342859285635,
+    "weighted_precision": 0.9927626210664491,
+    "weighted_recall": 0.9924433249370277,
+    "weighted_f1": 0.9924788965959698
+  },
+  "heldout_metrics": {
+    "accuracy": 0.995260663507109,
+    "macro_precision": 0.9949494949494949,
+    "macro_recall": 0.9944444444444445,
+    "macro_f1": 0.9946110386788353,
+    "weighted_precision": 0.9954042797644693,
+    "weighted_recall": 0.995260663507109,
+    "weighted_f1": 0.995256956073086
+  },
+  "common_confusions": [
+    {
+      "true": "spanish",
+      "predicted": "portuguese",
+      "count": 1
+    }
+  ]
+}

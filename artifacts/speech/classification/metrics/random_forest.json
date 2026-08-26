@@ -1,0 +1,26 @@
+{
+  "model_key": "random_forest",
+  "family": "Random forest",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9544436946345748,
+  "cv_macro_f1_std": 0.06442634489939447,
+  "best_parameters": {
+    "classifier__class_weight": "balanced",
+    "classifier__max_depth": null,
+    "classifier__min_samples_leaf": 1,
+    "classifier__n_estimators": 200
+  },
+  "fit_search_seconds": 12.403304200001003,
+  "heldout_predict_seconds": 0.013352699999813922,
+  "heldout_rows": 148,
+  "heldout_metrics": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "weighted_precision": 1.0,
+    "weighted_recall": 1.0,
+    "weighted_f1": 1.0
+  },
+  "common_confusions": []
+}

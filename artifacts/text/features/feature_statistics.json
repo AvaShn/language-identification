@@ -1,0 +1,48 @@
+{
+  "representation": "FeatureUnion(character-boundary TF-IDF + word TF-IDF) followed by supervised Chi-square selection",
+  "character": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      2,
+      4
+    ],
+    "min_df": 1,
+    "max_features": 3000,
+    "sublinear_tf": true,
+    "lowercase": true
+  },
+  "word": {
+    "analyzer": "word",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 1,
+    "max_features": 2000,
+    "sublinear_tf": true,
+    "lowercase": true
+  },
+  "selected_feature_count": 50,
+  "train_shape": [
+    397,
+    5000
+  ],
+  "test_shape": [
+    211,
+    5000
+  ],
+  "selected_train_shape": [
+    397,
+    50
+  ],
+  "selected_test_shape": [
+    211,
+    50
+  ],
+  "vocabulary_size": 5000,
+  "train_nonzero": 136673,
+  "test_nonzero": 67530,
+  "fit_scope": "TF-IDF and Chi-square selection fitted on training partition only",
+  "raw_text_transform_smoke_test": true,
+  "data_audit_rows": 608
+}

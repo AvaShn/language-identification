@@ -1,0 +1,22 @@
+{
+  "kmeans": {
+    "family": "K-Means",
+    "representation": "median imputation + StandardScaler + unsupervised PCA",
+    "selection": "silhouette except Gaussian mixture uses BIC"
+  },
+  "agglomerative": {
+    "family": "Agglomerative clustering",
+    "representation": "median imputation + StandardScaler + unsupervised PCA",
+    "selection": "silhouette except Gaussian mixture uses BIC"
+  },
+  "gaussian_mixture": {
+    "family": "Gaussian mixture",
+    "representation": "median imputation + StandardScaler + unsupervised PCA",
+    "selection": "silhouette except Gaussian mixture uses BIC"
+  },
+  "dbscan": {
+    "family": "DBSCAN",
+    "representation": "median imputation + StandardScaler + unsupervised PCA",
+    "selection": "silhouette except Gaussian mixture uses BIC"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "n_clusters": 2,
+    "silhouette": 0.20304376968922708,
+    "inertia": 407.0025210090566
+  },
+  {
+    "n_clusters": 3,
+    "silhouette": 0.2336440641934523,
+    "inertia": 341.51329281700106
+  },
+  {
+    "n_clusters": 4,
+    "silhouette": 0.29104116354978027,
+    "inertia": 287.09305778233414
+  },
+  {
+    "n_clusters": 5,
+    "silhouette": 0.31395238244217855,
+    "inertia": 247.88395975234278
+  },
+  {
+    "n_clusters": 6,
+    "silhouette": 0.3510841965943414,
+    "inertia": 216.64407631267733
+  },
+  {
+    "n_clusters": 7,
+    "silhouette": 0.3264795413572796,
+    "inertia": 210.53175449157322
+  },
+  {
+    "n_clusters": 8,
+    "silhouette": 0.2859398241158059,
+    "inertia": 206.24246434752826
+  }
+]

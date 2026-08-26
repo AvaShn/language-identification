@@ -1,0 +1,9 @@
+{
+  "representation": "multilingual-safe cleaning + character/word TF-IDF FeatureUnion + unlabeled TruncatedSVD + L2 normalization",
+  "svd_components": 50,
+  "labels_used_in_fit_or_reduction": false,
+  "matrix_shape": [
+    608,
+    50
+  ]
+}

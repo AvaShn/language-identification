@@ -1,0 +1,43 @@
+{
+  "model_key": "knn",
+  "family": "k-nearest neighbours",
+  "selection_metric": "group-aware CV macro-F1 on training partition",
+  "cv_macro_f1_mean": 0.9770405362072028,
+  "cv_macro_f1_std": 0.014957174140397482,
+  "best_parameters": {
+    "classifier__n_neighbors": 1
+  },
+  "fit_search_seconds": 16.037502200000745,
+  "heldout_predict_seconds": 0.09980319999885978,
+  "heldout_rows": 211,
+  "training_metrics": {
+    "accuracy": 0.9899244332493703,
+    "macro_precision": 0.9903318903318903,
+    "macro_recall": 0.9902661064425771,
+    "macro_f1": 0.9901761998180082,
+    "weighted_precision": 0.9901719607009279,
+    "weighted_recall": 0.9899244332493703,
+    "weighted_f1": 0.989922919009465
+  },
+  "heldout_metrics": {
+    "accuracy": 0.985781990521327,
+    "macro_precision": 0.985099846390169,
+    "macro_recall": 0.9840277777777778,
+    "macro_f1": 0.9843366725221162,
+    "weighted_precision": 0.9861707471553061,
+    "weighted_recall": 0.985781990521327,
+    "weighted_f1": 0.9857683775574653
+  },
+  "common_confusions": [
+    {
+      "true": "portuguese",
+      "predicted": "japanese",
+      "count": 2
+    },
+    {
+      "true": "spanish",
+      "predicted": "portuguese",
+      "count": 1
+    }
+  ]
+}

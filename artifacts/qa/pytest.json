@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "return_code": 0,
+  "command": "python -m pytest (inside Poetry environment)",
+  "stdout": "============================= test session starts =============================\nplatform win32 -- Python 3.12.13, pytest-9.1.1, pluggy-1.6.0\nrootdir: C:\\Users\\Ava\\Desktop\\Language_Identification\nconfigfile: pyproject.toml\ntestpaths: tests\ncollected 11 items\n\ntests\\test_config.py ..                                                  [ 18%]\ntests\\test_inference.py ..                                               [ 36%]\ntests\\test_model_registry.py .                                           [ 45%]\ntests\\test_smoke_pipeline.py .                                           [ 54%]\ntests\\test_speech_data.py .                                              [ 63%]\ntests\\test_splitting.py .                                                [ 72%]\ntests\\test_text_data.py ..                                               [ 90%]\ntests\\test_text_features.py .                                            [100%]\n\n============================= 11 passed in 2.33s ==============================\n",
+  "stderr": ""
+}
