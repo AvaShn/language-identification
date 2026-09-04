@@ -1,0 +1,22 @@
+\contentsline {table}{\numberline {3.1}{\ignorespaces توزیع نمونه‌های مجموعه داده متنی}}{37}{table.caption.21}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces ابعاد فضای ویژگی متنی}}{40}{table.caption.22}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces توزیع نمونه‌های صوتی براساس زبان}}{42}{table.caption.23}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces توزیع نمونه‌های صوتی براساس جنسیت گوینده}}{43}{table.caption.24}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces ساختار ویژگی‌های استخراج‌شده از هر فایل صوتی}}{45}{table.caption.25}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces آمار مدت زمان نمونه‌های صوتی}}{47}{table.caption.26}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces نگاشت کد پوشه منبع به برچسب نهایی زبان}}{52}{table.caption.27}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces فضای جست‌وجو و بهترین ابرپارامتر طبقه‌بندهای متن}}{57}{table.caption.30}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces مقایسه طبقه‌بندهای متن بر اساس اعتبارسنجی متقاطع گروه‌آگاه}}{58}{table.caption.31}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces مقایسه عملکرد طبقه‌بندهای متن روی مجموعه آزمون نهایی}}{58}{table.caption.32}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces نتایج تجمیعی مدل \lr {Logistic Regression} روی مجموعه آزمون}}{59}{table.caption.33}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces گزارش طبقه‌بندی مدل \lr {Logistic Regression} برای هر زبان}}{59}{table.caption.34}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces مقایسه نتایج الگوریتم‌های خوشه‌بندی داده‌های متنی}}{68}{table.caption.48}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces مشخصات مجموعه‌داده گفتاری مورد استفاده در مدل‌سازی}}{74}{table.caption.57}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces نتایج اعتبارسنجی متقاطع مدل‌های طبقه‌بندی گفتار}}{81}{table.caption.62}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces مقایسه عملکرد مدل‌های طبقه‌بندی گفتار روی مجموعه آزمون}}{81}{table.caption.63}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces نتایج کلی مدل منتخب طبقه‌بندی گفتار}}{82}{table.caption.64}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces گزارش طبقه‌بندی مدل \lr {KNN} به تفکیک زبان}}{82}{table.caption.65}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces مشخصات داده ورودی خوشه‌بندی گفتار}}{86}{table.caption.67}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces مقایسه نتایج الگوریتم‌های خوشه‌بندی گفتار}}{88}{table.caption.72}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces خلاصه طبقه‌بند منتخب در هر مجموعه‌داده مستقل}}{93}{table.caption.81}%
+\contentsline {table}{\numberline {4.16}{\ignorespaces تفاوت انتخاب داخلی و تطابق خارجی در خوشه‌بندی}}{93}{table.caption.82}%

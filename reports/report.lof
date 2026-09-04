@@ -1,0 +1,14 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces نمای مفهومی مسئله تشخیص خودکار زبان در دو مسیر مستقل متن و گفتار}}{3}{figure.caption.5}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces ماتریس درهم‌ریختگی مدل \lr {Logistic Regression}}}{60}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces ماتریس درهم‌ریختگی مدل \lr {K-Nearest Neighbours}}}{61}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ماتریس درهم‌ریختگی مدل \lr {Decision Tree}}}{62}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces ماتریس درهم‌ریختگی مدل \lr {Multinomial Naive Bayes}}}{63}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {K-Means}}}{69}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {DBSCAN}}}{70}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {Agglomerative Clustering}}}{71}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {Gaussian Mixture}}}{72}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces ماتریس درهم‌ریختگی مدل \lr {KNN}}}{83}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {K-Means} در داده‌های گفتاری}}{89}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {DBSCAN} در داده‌های گفتاری}}{90}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {Agglomerative Clustering} در داده‌های گفتاری}}{91}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces نمایش خوشه‌های ایجادشده توسط الگوریتم \lr {Gaussian Mixture} در داده‌های گفتاری}}{92}{figure.caption.80}%
